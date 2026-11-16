@@ -1,0 +1,2455 @@
+{
+  "version": "6.9.0-roadtrip",
+  "files": [
+    {
+      "path": "06.6使用与验收说明.md",
+      "bytes": 4184,
+      "sha256": "9b820158af1a4da721cbd827ae1da4d4ecc82f5a2c9ac6c5288378a8f1f539f4"
+    },
+    {
+      "path": "06.7驾驶舱说明.md",
+      "bytes": 1138,
+      "sha256": "fd05f64f009c3d1869118b9317f86ada61fac085846f2f61fae23de137fe3ad6"
+    },
+    {
+      "path": "06.8使用与检查说明.md",
+      "bytes": 5107,
+      "sha256": "324a3ba0458b415485e1151fe74ffb25528bac8f400cd2b57995820e2c9b6ab9"
+    },
+    {
+      "path": "06.9使用与验收说明.md",
+      "bytes": 5174,
+      "sha256": "b62a7838d673e39de011400d21cb64d7610610ca06378b1e9d292bb4f04ef551"
+    },
+    {
+      "path": "06.9实测结果.md",
+      "bytes": 12622,
+      "sha256": "5898d04dc7cfcf86786d137e4fda1f3bbd68fce7f20fde2091fff1cfe5876ea4"
+    },
+    {
+      "path": "dist/activities-ui.js",
+      "bytes": 6958,
+      "sha256": "ddfc9821f4a28b9f589d9dffda168f1288d84fdb183f2c93d0d9d25ce509832f"
+    },
+    {
+      "path": "dist/alpine-forest.js",
+      "bytes": 3364,
+      "sha256": "9d04e3b0dc236efaecd6ebba73fa7adf75a02fb00f2901ac05ed1895d0fce7bc"
+    },
+    {
+      "path": "dist/asset-loader.js",
+      "bytes": 19330,
+      "sha256": "a7e95eda94e6052f73772c46169017a54c42a7104be5c3cc2a9ce3c02af82b12"
+    },
+    {
+      "path": "dist/assets/aerial_grass_rock_diffuse.jpg",
+      "bytes": 666655,
+      "sha256": "57b8041bfe0d0f01430e4dbaad45e7ddddf0a9fc97317f90dbc51f7b0d9e1b5d"
+    },
+    {
+      "path": "dist/assets/aerial_grass_rock_normal.jpg",
+      "bytes": 904956,
+      "sha256": "1aa3e23bff453f152e089b9f83aa36b4901651e019f7e2ca01d5331a9bbbda78"
+    },
+    {
+      "path": "dist/assets/asphalt_02_diffuse.jpg",
+      "bytes": 731707,
+      "sha256": "1aa5ce99f58a625c71d48cfc3e68b65ca85ccb00f39e045c0a928608a0ea25ed"
+    },
+    {
+      "path": "dist/assets/asphalt_02_normal.jpg",
+      "bytes": 1240122,
+      "sha256": "42a1c381b53204e83a982db2864479a30bc127bbdeebb1006f8ee51bff099df3"
+    },
+    {
+      "path": "dist/assets/ATTRIBUTION.txt",
+      "bytes": 1295,
+      "sha256": "13542e704f877c86c0e6af22f9675ee17a285aa34c83c6ba44a1f2729d189526"
+    },
+    {
+      "path": "dist/assets/car-source.json",
+      "bytes": 5528,
+      "sha256": "fe7babba1c0244b2122595736e376a5b9e3a6c6903848063e7cc9abe61cfafb9"
+    },
+    {
+      "path": "dist/assets/coastal-sky.hdr",
+      "bytes": 1435119,
+      "sha256": "fd94c84997b8a3c353b62c2125a9b44e19509956986a126e472684432a02d798"
+    },
+    {
+      "path": "dist/assets/LICENSES/CarConcept-LICENSE.md",
+      "bytes": 943,
+      "sha256": "e11477f29eab33d1a5c9fc8534f931556faeb2e11a7fee9e4723d917fcfaee50"
+    },
+    {
+      "path": "dist/assets/LICENSES/CarConcept-README.md",
+      "bytes": 20382,
+      "sha256": "af5f76ead54a5039288924f37081d6e1fcd5ccc5b2628faedb926325a73099cd"
+    },
+    {
+      "path": "dist/assets/LICENSES/CC-BY-4.0.txt",
+      "bytes": 13034,
+      "sha256": "c8041334a99cb48852b2139253cbde5f8ac87e27f124aed51223e0d5bf0080eb"
+    },
+    {
+      "path": "dist/assets/LICENSES/CC0-1.0.txt",
+      "bytes": 6533,
+      "sha256": "a43fc2004d1e073f1107a1f6146664d08dae6cea93cb828742a4bec6da828e91"
+    },
+    {
+      "path": "dist/assets/LICENSES/LicenseRef-LegalMark-Khronos.txt",
+      "bytes": 589,
+      "sha256": "2ea9821de870cf8d3faaa115ffc47f56632bf9f98d54d2ac1ce61592040b765c"
+    },
+    {
+      "path": "dist/assets/LICENSES/Poly-Haven-license.html",
+      "bytes": 72324,
+      "sha256": "6f4f617c936d14d5a80db6a2ebec145c79277a760672501eef51bff7a0d4cbba"
+    },
+    {
+      "path": "dist/assets/liveries/aurora-pilot-original.png",
+      "bytes": 1993882,
+      "sha256": "6299a45351053371e67f7a2129aa361c42735e9684d277a4498a9e988040fdfc"
+    },
+    {
+      "path": "dist/assets/liveries/SOURCES.json",
+      "bytes": 1655,
+      "sha256": "0faf18b37b407bfc4e0f87d045c2c1b805166aa3d9d7827e455c19e019b50173"
+    },
+    {
+      "path": "dist/assets/models/car-concept/CarConcept.data.bin",
+      "bytes": 8670516,
+      "sha256": "5cd6ceb6a502dc3c79863c2f11c06f6aa7474e53367bb212b3e3c3f1e7611d20"
+    },
+    {
+      "path": "dist/assets/models/car-concept/CarConcept.gltf",
+      "bytes": 333111,
+      "sha256": "76afe91f52c938f1f33025dc73dd7f638be7aa75f074d3e4323dd6c9b521d470"
+    },
+    {
+      "path": "dist/assets/models/car-concept/Dash_E.jpg",
+      "bytes": 21350,
+      "sha256": "b4a466494a21efb14059b0f30605cc7331895b6e2abe250b5e091827d2e69e2e"
+    },
+    {
+      "path": "dist/assets/models/car-concept/Dot_C.png",
+      "bytes": 321,
+      "sha256": "ac7ca6bf9ee840b78e4a27c82c3c529a1063bba16b9eea120c981a041d922a40"
+    },
+    {
+      "path": "dist/assets/models/car-concept/Dot_N.jpg",
+      "bytes": 6477,
+      "sha256": "c4e4824414fa7137d368b911fd41e8f64f413b9dd708da8c5e7640ef16846df2"
+    },
+    {
+      "path": "dist/assets/models/car-concept/Hex_N.jpg",
+      "bytes": 2157,
+      "sha256": "e79d5cc6f9bed74d26f95083e02951ccbb01e2b11c86889562689142f7ebab3b"
+    },
+    {
+      "path": "dist/assets/models/car-concept/Khronos_C.jpg",
+      "bytes": 5964,
+      "sha256": "47bc84e379b6ace50efd21bd922220de323697764f011bbf08f6a816403a26d6"
+    },
+    {
+      "path": "dist/assets/models/car-concept/Mechanical_N.jpg",
+      "bytes": 154482,
+      "sha256": "11f22b0c937f983689646679a8827ae5ddf2727ad228cf6a662578e686a71348"
+    },
+    {
+      "path": "dist/assets/models/car-concept/Mechanical_ORM.jpg",
+      "bytes": 18470,
+      "sha256": "1db110620ea68b6c03002cf05856c4bf8d145a64c4cb28f939c0b6e08a97a1ac"
+    },
+    {
+      "path": "dist/assets/models/car-concept/Occlusion.jpg",
+      "bytes": 456075,
+      "sha256": "ddc9708f8a84ee900f4b39eec3200b5fda4fd9c4b5dda315d97c7f52e8045f9e"
+    },
+    {
+      "path": "dist/assets/models/car-concept/Powdercoat_N.png",
+      "bytes": 41240,
+      "sha256": "3f1bf8d127374684c89b0d1963ca57d36a8ea59de96bef752b62daebc6362eeb"
+    },
+    {
+      "path": "dist/assets/models/car-concept/Rib_N.png",
+      "bytes": 143,
+      "sha256": "516aada2d1c574c59352e1221aaf75cc8fa48104aafe05716f02f30b7349c59f"
+    },
+    {
+      "path": "dist/assets/models/car-concept/runtime.glb",
+      "bytes": 9678708,
+      "sha256": "f11b00d60c8fa9bea6fbd17446db3ec7f1a6693679fe4b4ddf68a2b77e9c13ca"
+    },
+    {
+      "path": "dist/assets/models/car-concept/Thickness.jpg",
+      "bytes": 28582,
+      "sha256": "36489ec4520a0a17b91d3c4f86075881d1fe4c5f2a986af9e50b93702d0dfc2e"
+    },
+    {
+      "path": "dist/assets/models/car-concept/Tireside_C.png",
+      "bytes": 8094,
+      "sha256": "871509e74cc44ca8fa3b664e59460e62f0edf30007b035bb9f21ad957d6336c1"
+    },
+    {
+      "path": "dist/assets/models/car-concept/Tireside_N.jpg",
+      "bytes": 250816,
+      "sha256": "01d5f4ad0f6d0751b050c663d9c08c72109d6f0494cab25719329f41cee297de"
+    },
+    {
+      "path": "dist/assets/models/car-concept/Tiretread_N.jpg",
+      "bytes": 27762,
+      "sha256": "ea56b8ec89c96ac02702aa8b74d05ce0886d8238af55f28fb7a4f29d3c7cb635"
+    },
+    {
+      "path": "dist/assets/models/coast_rocks_01/coast_rocks_01.bin",
+      "bytes": 19320352,
+      "sha256": "3d1c33b18fdcf0efebab46526e94d17efccbc3c9a06dc14b89b04b93109fa3d2"
+    },
+    {
+      "path": "dist/assets/models/coast_rocks_01/coast_rocks_01.gltf",
+      "bytes": 2810,
+      "sha256": "9d45b232fe8bfc8f9d84aaa900ba28f150764e4b40accf7d50fbb45a3de54c51"
+    },
+    {
+      "path": "dist/assets/models/coast_rocks_01/far.glb",
+      "bytes": 2388284,
+      "sha256": "5050934971c59626e7760807d5cd5417143d56b3bd12410bf96f4668d950243b"
+    },
+    {
+      "path": "dist/assets/models/coast_rocks_01/mid.glb",
+      "bytes": 2461052,
+      "sha256": "82d985ff4142fb783cf80b5cacdcd5b1af567498a78d227983458235cb72f2ba"
+    },
+    {
+      "path": "dist/assets/models/coast_rocks_01/near.glb",
+      "bytes": 2784820,
+      "sha256": "64523b470f0a28e1e51adc8bc88579ca7e17c06662c2c9cc78d86b4c71e7f6a5"
+    },
+    {
+      "path": "dist/assets/models/coast_rocks_01/textures/coast_rocks_01_arm_1k.jpg",
+      "bytes": 602817,
+      "sha256": "13fddfb9051fa36720b5c35f4f52a49826b1e3a4063f66e440a7033dd90c30cc"
+    },
+    {
+      "path": "dist/assets/models/coast_rocks_01/textures/coast_rocks_01_diff_1k.jpg",
+      "bytes": 839761,
+      "sha256": "a6814ce9c023fc7c90eb38c2afe658a3076b94ed44d136c2dbd3605d18fade7b"
+    },
+    {
+      "path": "dist/assets/models/coast_rocks_01/textures/coast_rocks_01_nor_gl_1k.jpg",
+      "bytes": 918464,
+      "sha256": "848292bb5fd720fefd37fa94326071bc81e2290bbf409bb019efb6fb30399809"
+    },
+    {
+      "path": "dist/assets/models/island_tree_02/far.glb",
+      "bytes": 7443916,
+      "sha256": "23af163cb00303ac4c2d137362be46786030d7e1fd950c77c6424e677713a38c"
+    },
+    {
+      "path": "dist/assets/models/island_tree_02/island_tree_02.bin",
+      "bytes": 40686576,
+      "sha256": "427d69ccc1ea12d1fb9c6af89691563b4a097f39a6f34c15be6e45ef5e5fd4ce"
+    },
+    {
+      "path": "dist/assets/models/island_tree_02/island_tree_02.gltf",
+      "bytes": 8545,
+      "sha256": "d8c5d9ead41cdbef91a648f40ff60470faa19eb3a7010e59e44cb1a01250f75d"
+    },
+    {
+      "path": "dist/assets/models/island_tree_02/mid.glb",
+      "bytes": 8002404,
+      "sha256": "5b73d7ea6cba5b0319888a71d6f2a33573e7afc54937b233d14f9d26ca5fad58"
+    },
+    {
+      "path": "dist/assets/models/island_tree_02/near.glb",
+      "bytes": 10899968,
+      "sha256": "64acd101cca528a506036572d5a2dd8d8f31c4ffad2a46045c1c81c8c407318c"
+    },
+    {
+      "path": "dist/assets/models/island_tree_02/textures/island_tree_02_arm_1k.jpg",
+      "bytes": 688305,
+      "sha256": "ada61dd4fad023e699b6314b8b76590017b301719bf74ffc9e20b95893ed62b6"
+    },
+    {
+      "path": "dist/assets/models/island_tree_02/textures/island_tree_02_branches_arm_1k.jpg",
+      "bytes": 484806,
+      "sha256": "9e3f82263247ce4f619692cea4c4f6fe9936ff465a86623481849062642c7d05"
+    },
+    {
+      "path": "dist/assets/models/island_tree_02/textures/island_tree_02_branches_diff_1k.jpg",
+      "bytes": 528304,
+      "sha256": "bee5ec22196e9e31ad0c95a5a9b4636571cc0124d5bb27a92f1e307d289cc60d"
+    },
+    {
+      "path": "dist/assets/models/island_tree_02/textures/island_tree_02_branches_nor_gl_1k.jpg",
+      "bytes": 819101,
+      "sha256": "2d67393ba76a0f49cf965fa0c99d8c16268e71e87b1203d35539bfdb971a514e"
+    },
+    {
+      "path": "dist/assets/models/island_tree_02/textures/island_tree_02_diff_1k.jpg",
+      "bytes": 738738,
+      "sha256": "8fc20397ab5d514c119d7a025868414d78e436138d3867a4b7ba12334a72ec3a"
+    },
+    {
+      "path": "dist/assets/models/island_tree_02/textures/island_tree_02_leaves_arm_1k.jpg",
+      "bytes": 489476,
+      "sha256": "90da3a072dbcb052715b1313b9dbc69a4aa8a09a31a4b3868411a2bb51d72037"
+    },
+    {
+      "path": "dist/assets/models/island_tree_02/textures/island_tree_02_leaves_diff_1k.jpg",
+      "bytes": 191886,
+      "sha256": "f56d762a1507754752abf164cc12acbc1e87ce87fa609ac44b98a1b0037c89d8"
+    },
+    {
+      "path": "dist/assets/models/island_tree_02/textures/island_tree_02_leaves_nor_gl_1k.jpg",
+      "bytes": 379443,
+      "sha256": "07ba461c0c95da4e49a42981766bdb6191d4c3c4d815796c082266dcc3cecdb8"
+    },
+    {
+      "path": "dist/assets/models/island_tree_02/textures/island_tree_02_nor_gl_1k.jpg",
+      "bytes": 1157226,
+      "sha256": "1580d5a42d02f4ede51bfb03972ab0aef3d8acafbd3692276879171007bb70ec"
+    },
+    {
+      "path": "dist/assets/models/modular_urban_apartments_facade/modular_urban_apartments_facade.bin",
+      "bytes": 8168772,
+      "sha256": "f041e71b6bd31864f20dd64d3a82519454a603c300686161e0349ff44f838bf2"
+    },
+    {
+      "path": "dist/assets/models/modular_urban_apartments_facade/modular_urban_apartments_facade.gltf",
+      "bytes": 270799,
+      "sha256": "1a5a17dffd27fb9e1236dea7e51c4e0393a9d88ed0885a0621e67a37f80b27eb"
+    },
+    {
+      "path": "dist/assets/models/modular_urban_apartments_facade/runtime.glb",
+      "bytes": 16059808,
+      "sha256": "647e3069d2d8de2982c542c3243eb4af7806dd99444a8eddaecd1596f080ef38"
+    },
+    {
+      "path": "dist/assets/models/modular_urban_apartments_facade/textures/modular_urban_apartments_facade_objects_arm_1k.jpg",
+      "bytes": 790231,
+      "sha256": "16c23388d22461b5fc8f2a879e5549bc1591d99e0da4f0c057fe2a49c458da38"
+    },
+    {
+      "path": "dist/assets/models/modular_urban_apartments_facade/textures/modular_urban_apartments_facade_objects_diff_1k.jpg",
+      "bytes": 576336,
+      "sha256": "038083f96e63d92e6a30685f1a7f5b5b01a6448118dfecd6ed364d31088db7df"
+    },
+    {
+      "path": "dist/assets/models/modular_urban_apartments_facade/textures/modular_urban_apartments_facade_objects_nor_gl_1k.jpg",
+      "bytes": 544638,
+      "sha256": "e5bac0355cbacb09d4400398f7e5f159624fb0519d5c007b639da75e59137030"
+    },
+    {
+      "path": "dist/assets/models/modular_urban_apartments_facade/textures/modular_urban_apartments_facade_plaster_arm_1k.jpg",
+      "bytes": 533411,
+      "sha256": "71c2ab6cfe97411f0111e99658b88cd22946abc96a3ed67051e06dab8dde5cb8"
+    },
+    {
+      "path": "dist/assets/models/modular_urban_apartments_facade/textures/modular_urban_apartments_facade_plaster_diff_1k.jpg",
+      "bytes": 519200,
+      "sha256": "aac6cb79d9a3f73ad360077a439e1b81b1e919d6ace658a27225b20858bcad3c"
+    },
+    {
+      "path": "dist/assets/models/modular_urban_apartments_facade/textures/modular_urban_apartments_facade_plaster_nor_gl_1k.jpg",
+      "bytes": 1003277,
+      "sha256": "79cebca9b98dcb62efc5474a2d236c98a34b7260b58a65db24e501acf60de66c"
+    },
+    {
+      "path": "dist/assets/models/modular_urban_apartments_facade/textures/modular_urban_apartments_facade_trim_01_arm_1k.jpg",
+      "bytes": 651756,
+      "sha256": "b3fe0aa9389d827afa4a29e15842209a6d8dadb86eca9a0b462c2c9fe4f58987"
+    },
+    {
+      "path": "dist/assets/models/modular_urban_apartments_facade/textures/modular_urban_apartments_facade_trim_01_diff_1k.jpg",
+      "bytes": 553769,
+      "sha256": "62510c9e167363da1ff101b03d0c7705c74cb0e20bb02fc7bc0596f9da26ac8c"
+    },
+    {
+      "path": "dist/assets/models/modular_urban_apartments_facade/textures/modular_urban_apartments_facade_trim_01_nor_gl_1k.jpg",
+      "bytes": 850037,
+      "sha256": "65cf274a67914590329b67eb6d926377d5aa45fa326afb91caa8781a30c99160"
+    },
+    {
+      "path": "dist/assets/models/modular_urban_apartments_facade/textures/modular_urban_apartments_facade_trim_02_arm_1k.jpg",
+      "bytes": 706292,
+      "sha256": "45a49a17b19b7d579237ec343b56ebee79ce1b06cb9d1179af8609d64ee1c27f"
+    },
+    {
+      "path": "dist/assets/models/modular_urban_apartments_facade/textures/modular_urban_apartments_facade_trim_02_diff_1k.jpg",
+      "bytes": 499399,
+      "sha256": "10097392fa107eb3723fff229f1f9522dedd2f91e4bdc3eaac884325d42ddf8e"
+    },
+    {
+      "path": "dist/assets/models/modular_urban_apartments_facade/textures/modular_urban_apartments_facade_trim_02_nor_gl_1k.jpg",
+      "bytes": 820776,
+      "sha256": "8a87d143725ec32951061b55935ffcef426755b0d11236d93e8b18cf94612498"
+    },
+    {
+      "path": "dist/assets/models/pine_sapling_medium/DERIVED.json",
+      "bytes": 695,
+      "sha256": "6ff797e2c1b3b5e0488bd89c907026b1c6f7ba8b09729adee3061670ee2a210e"
+    },
+    {
+      "path": "dist/assets/models/pine_sapling_medium/far.glb",
+      "bytes": 6496820,
+      "sha256": "69b73205070b636b9b32f68293f57de5d5ad3819d1a7a41a81776c9cbf03020a"
+    },
+    {
+      "path": "dist/assets/models/pine_sapling_medium/mid.glb",
+      "bytes": 11314912,
+      "sha256": "8b0bca801bd109ec312097c718cb7d5f230bb4cd2a8660952df9389dcd33acd7"
+    },
+    {
+      "path": "dist/assets/models/pine_sapling_medium/near.glb",
+      "bytes": 29077196,
+      "sha256": "b3b7ad4ae85ea2015f7c4e7d6181d73a70467fc3b87a7f5cfa0097455fc49ba7"
+    },
+    {
+      "path": "dist/assets/models/pine_sapling_medium/SOURCE.json",
+      "bytes": 3015,
+      "sha256": "404aa4f6ed95bffe417ef9ba5397fe103837fac398973687fc236a7bd42354de"
+    },
+    {
+      "path": "dist/assets/models/pine_sapling_small/DERIVED.json",
+      "bytes": 393,
+      "sha256": "4fe43f973f16dd5a3843bf2e599580945a0ecdda31933b6dc37251903b66d873"
+    },
+    {
+      "path": "dist/assets/models/pine_sapling_small/far.glb",
+      "bytes": 4681032,
+      "sha256": "5ec0795973582ad7b9170950b4d8f897fc8f040e4cb774bd9714df602108ac3f"
+    },
+    {
+      "path": "dist/assets/models/pine_sapling_small/mid.glb",
+      "bytes": 6820660,
+      "sha256": "c2a3da8bff7393d62c83b7a2376509803d60ad86eb42cb77dc184658a8183693"
+    },
+    {
+      "path": "dist/assets/models/pine_sapling_small/near.glb",
+      "bytes": 13746848,
+      "sha256": "2b5a7d0b75f0210dc53f961509affd3bcf42a08749f1dc8bf59655947e9a35dc"
+    },
+    {
+      "path": "dist/assets/models/pine_sapling_small/pine_sapling_small.bin",
+      "bytes": 17771796,
+      "sha256": "b4d2fc73d53f1d8717eb5ef9a2c66957d2a53152787e543aace88fcd6fca94ef"
+    },
+    {
+      "path": "dist/assets/models/pine_sapling_small/pine_sapling_small.gltf",
+      "bytes": 11442,
+      "sha256": "f358c01926861dd082f32dba60f7c9fba232b585a985cf38c0d2229eecf4bc48"
+    },
+    {
+      "path": "dist/assets/models/pine_sapling_small/SOURCE.json",
+      "bytes": 2576,
+      "sha256": "80df1534b1d8d3a479a002262941a409dabc4b60885c947a1f4a7fcd5deabaa1"
+    },
+    {
+      "path": "dist/assets/models/pine_sapling_small/textures/pine_sapling_small_bark_arm_1k.jpg",
+      "bytes": 801278,
+      "sha256": "336a4680cd571b6076b67afee2310b290b8900d9d126eb39ec1ae92e95be2ea9"
+    },
+    {
+      "path": "dist/assets/models/pine_sapling_small/textures/pine_sapling_small_bark_diff_1k.jpg",
+      "bytes": 725265,
+      "sha256": "5c76836b01c3536fa0e24207b67bf4f3315b53ebe2b4ecc6f08dfcf3f8d74929"
+    },
+    {
+      "path": "dist/assets/models/pine_sapling_small/textures/pine_sapling_small_bark_nor_gl_1k.jpg",
+      "bytes": 1016849,
+      "sha256": "05c46455531781b6cf18cae0648cf627f60ee942adaa8bcbfd1592fc2506a9e0"
+    },
+    {
+      "path": "dist/assets/models/pine_sapling_small/textures/pine_sapling_small_twig_arm_1k.jpg",
+      "bytes": 394056,
+      "sha256": "2eb0aa44124b5a4ae9401e00b23b3c916f4c3f421616ce1bb932f248fc061288"
+    },
+    {
+      "path": "dist/assets/models/pine_sapling_small/textures/pine_sapling_small_twig_diff_1k.jpg",
+      "bytes": 477942,
+      "sha256": "54af7d6fb664b5a38bcb118b557bc50e01e86ec54d6f1a573c3e32c649a53362"
+    },
+    {
+      "path": "dist/assets/models/pine_sapling_small/textures/pine_sapling_small_twig_nor_gl_1k.jpg",
+      "bytes": 692711,
+      "sha256": "76af87821d7ff00e25768d5d97a449394fe64a21ae55d099da7f5ed46d9098c8"
+    },
+    {
+      "path": "dist/assets/models/rock_09/far.glb",
+      "bytes": 1700096,
+      "sha256": "83e294515a11389e9683459f1c5f4772a5c0bba013575ec94a97f7c78491b558"
+    },
+    {
+      "path": "dist/assets/models/rock_09/mid.glb",
+      "bytes": 1752812,
+      "sha256": "b45f282c087d103a7f4bf818ba34dce49e4fc5c622f46488cdc55f68bc242a03"
+    },
+    {
+      "path": "dist/assets/models/rock_09/near.glb",
+      "bytes": 1908344,
+      "sha256": "60cb29c3e94eed40ce4ea2bfc615ad0b4b162cd84042797b680176da3c0c601b"
+    },
+    {
+      "path": "dist/assets/models/rock_09/rock_09.bin",
+      "bytes": 286592,
+      "sha256": "780c37d6fc11ca3a01c3763535ef883908b6007271a46bd446d2289ded820751"
+    },
+    {
+      "path": "dist/assets/models/rock_09/rock_09.gltf",
+      "bytes": 2745,
+      "sha256": "636e57eb0090889627da18edaec202ff9f65f83101b94f91b7da4d21dc080ab9"
+    },
+    {
+      "path": "dist/assets/models/rock_09/textures/rock_09_arm_1k.jpg",
+      "bytes": 322950,
+      "sha256": "594e2cec49e6bb40bd9bab2649e37dcc261079456cf4d6f680f56770c19db5ea"
+    },
+    {
+      "path": "dist/assets/models/rock_09/textures/rock_09_diff_1k.jpg",
+      "bytes": 595103,
+      "sha256": "afb7ae5ae82238d304aba589391ac6bc87f7cf1dbfe50980c21f762cfdd87efd"
+    },
+    {
+      "path": "dist/assets/models/rock_09/textures/rock_09_nor_gl_1k.jpg",
+      "bytes": 757031,
+      "sha256": "2195b5c7da3a23af2a5f93dbb20f38bc069028509b106397bc8d2aee0bc55729"
+    },
+    {
+      "path": "dist/assets/models/shrub_02/far.glb",
+      "bytes": 1289196,
+      "sha256": "a74399abd34eb8d64cdf6c19897c325fd03c4797b89f77e2572a4d308129481f"
+    },
+    {
+      "path": "dist/assets/models/shrub_02/mid.glb",
+      "bytes": 1399204,
+      "sha256": "3af4401c910ed0da083f6beb7e158023c32aa50308817e83ceab3ab146d54728"
+    },
+    {
+      "path": "dist/assets/models/shrub_02/near.glb",
+      "bytes": 1699952,
+      "sha256": "46b6acbe9edff5d4f8dc460805ff8c4dd851f586538a67da8eb4abdc54c3c00d"
+    },
+    {
+      "path": "dist/assets/models/shrub_02/shrub_02.bin",
+      "bytes": 758692,
+      "sha256": "5c1b79da1cfdbac90599542ccd1f75ba433a3a4d356b1ea03655adb39b0e2c96"
+    },
+    {
+      "path": "dist/assets/models/shrub_02/shrub_02.gltf",
+      "bytes": 8083,
+      "sha256": "99de0a70fe88ad414615cc8d8e020617c8512e2abfe08b911b153a6fcc40d93e"
+    },
+    {
+      "path": "dist/assets/models/shrub_02/textures/shrub_02_arm_1k.jpg",
+      "bytes": 313715,
+      "sha256": "7186bf604d5c02f873aef6de2346cc06b6fa48f47d054edbef36d2c3772c0890"
+    },
+    {
+      "path": "dist/assets/models/shrub_02/textures/shrub_02_diff_1k.jpg",
+      "bytes": 395120,
+      "sha256": "9956eff294034d70516d867e9668428a23d782feb3d4c34061dce5e44bacd5a8"
+    },
+    {
+      "path": "dist/assets/models/shrub_02/textures/shrub_02_nor_gl_1k.jpg",
+      "bytes": 490815,
+      "sha256": "54c24e433365d5410223b7ebd2b33042b80831f80976e10768114db5ef6911d7"
+    },
+    {
+      "path": "dist/assets/original-vehicles.json",
+      "bytes": 1246,
+      "sha256": "5875f3142d7447b50206205c057f2eb3f546d12d191e4f9324a7d7585f5bc4f9"
+    },
+    {
+      "path": "dist/assets/previews/alpine.jpg",
+      "bytes": 146594,
+      "sha256": "0646458ccec0c4cbb6a83552596f9e90420edce132e3d162632c5679c0f69309"
+    },
+    {
+      "path": "dist/assets/previews/canyon.jpg",
+      "bytes": 114649,
+      "sha256": "2826446707cfdf24bf9b1dcbce039d7aa25c8139743bb5d18b5bf7a9d6860a28"
+    },
+    {
+      "path": "dist/assets/previews/city.jpg",
+      "bytes": 96000,
+      "sha256": "2a3f50347d280e6270414ec94ad61368e5be70c3f57be545d9f7e50e76256250"
+    },
+    {
+      "path": "dist/assets/previews/coast.jpg",
+      "bytes": 134462,
+      "sha256": "bd0cf7ae8c0798a2695bd3cd6b92ab5768b55677450de62300a3f9e39da57823"
+    },
+    {
+      "path": "dist/assets/previews/port.jpg",
+      "bytes": 116776,
+      "sha256": "88640910eeffb308b59731ee337411a33a4d76655ae13b5b200de5aa6da10c87"
+    },
+    {
+      "path": "dist/assets/rock_boulder_cracked_diffuse.jpg",
+      "bytes": 998110,
+      "sha256": "e88c9e50109c7f610bc380a00b9bdac5954c392bb02134dedeea3358da57276a"
+    },
+    {
+      "path": "dist/assets/rock_boulder_cracked_normal.jpg",
+      "bytes": 1079683,
+      "sha256": "022000a37cb91457de2e0c738baebbc1b0b8eb864ba99321d07c248d5c0741bc"
+    },
+    {
+      "path": "dist/assets/runtime-manifest.json",
+      "bytes": 1992,
+      "sha256": "522fa44c4d469db54e52346c4f9b468573a01d2c3dbc45f62cc1e1e0bd9bff4a"
+    },
+    {
+      "path": "dist/assets/SKY-ATTRIBUTION.txt",
+      "bytes": 2105,
+      "sha256": "82513e3e5a054685b16c72fc5a6e6b09ed0b111292279ea9c266921374e7091e"
+    },
+    {
+      "path": "dist/assets/SOURCES.json",
+      "bytes": 32643,
+      "sha256": "852e77c1b2d2c764180c48a9975176dc6ae61fa3857ee47601c297a11fb1971e"
+    },
+    {
+      "path": "dist/assets/v42/brown_mud_02_diff.jpg",
+      "bytes": 527741,
+      "sha256": "058b6f12493305ec6b47cb5ea77f013c9e7e58216b34af3700a3d3d7d821732d"
+    },
+    {
+      "path": "dist/assets/v42/clay_roof_tiles_02_arm.jpg",
+      "bytes": 564611,
+      "sha256": "da94d4ce78607c4cb0450c669e8ca5d18852eb284def75445663f959cc1af63b"
+    },
+    {
+      "path": "dist/assets/v42/clay_roof_tiles_02_diff.jpg",
+      "bytes": 903929,
+      "sha256": "227a062b38b170e02c27eaa513dae45dc8bc893a62cbd8d0c08e2c32b381fc25"
+    },
+    {
+      "path": "dist/assets/v42/clay_roof_tiles_02_normal.jpg",
+      "bytes": 990101,
+      "sha256": "1548d3ebce335a4590d9e421556c4189a7b63852c793a568c71b9e533f8b62d5"
+    },
+    {
+      "path": "dist/assets/v42/coast_sand_05_diff.jpg",
+      "bytes": 874077,
+      "sha256": "3af6ab9fc565ece74fca08f4daf4ac903dd64e9370f1239176ec68f2f3dcdf6b"
+    },
+    {
+      "path": "dist/assets/v42/coast_sand_05_normal.jpg",
+      "bytes": 1318765,
+      "sha256": "e5dcfe12c8dcdb36ff3b2b87d90d3ac11fbafb42fd1f873c7faf3f3e512a3bbf"
+    },
+    {
+      "path": "dist/assets/v42/gravelly_sand_diff.jpg",
+      "bytes": 1062525,
+      "sha256": "bc1624594ce807f04eaa023f6f9df93ffefd20904570cd46ca302b954ef80eec"
+    },
+    {
+      "path": "dist/assets/v42/gravelly_sand_normal.jpg",
+      "bytes": 1387739,
+      "sha256": "7ccb08525d46520a6d00262f4f73483b3569cc6cbc2908da069f033290d1c2f8"
+    },
+    {
+      "path": "dist/assets/v42/painted_plaster_wall_arm.jpg",
+      "bytes": 511105,
+      "sha256": "2f13ed444e3e8f13087bca0890969d30795ed074bcfb11737d1ad6f5f0b53992"
+    },
+    {
+      "path": "dist/assets/v42/painted_plaster_wall_diff.jpg",
+      "bytes": 686726,
+      "sha256": "440310f05af089f2c93353167573403cbc3f805948203237b5d26431eeb9e19c"
+    },
+    {
+      "path": "dist/assets/v42/painted_plaster_wall_normal.jpg",
+      "bytes": 900461,
+      "sha256": "8eb01647d126eb5341e2c325821ad48c8ca11349dbef53447c95422c5d91cc9d"
+    },
+    {
+      "path": "dist/assets/v42/rock_wall_02_arm.jpg",
+      "bytes": 206132,
+      "sha256": "32bc822a6715e0025312b36c78cd6b05812b41c47d05dce39eeb9c592d85745e"
+    },
+    {
+      "path": "dist/assets/v42/rock_wall_02_diff.jpg",
+      "bytes": 303985,
+      "sha256": "4f1d2f80c07e502f5a5ecb4e58388cbf7f4cb33f507e39d024a17ea6d24539b5"
+    },
+    {
+      "path": "dist/assets/v42/rock_wall_02_normal.jpg",
+      "bytes": 198730,
+      "sha256": "81888d4950cb395cfba7e47691299470034a9e0d97e553957d21531e8720bb71"
+    },
+    {
+      "path": "dist/assets/v42/SOURCES.json",
+      "bytes": 6384,
+      "sha256": "97058c608a7f52588a4008bef93c827ce44d8df3f8680290d327db30db528c4a"
+    },
+    {
+      "path": "dist/assets/v5/alpine-sky.hdr",
+      "bytes": 1435119,
+      "sha256": "fd94c84997b8a3c353b62c2125a9b44e19509956986a126e472684432a02d798"
+    },
+    {
+      "path": "dist/assets/v5/canyon-sky.hdr",
+      "bytes": 1089069,
+      "sha256": "7b51637c363377f25bcd1df8ab679127353de7f7ee0622b046f392e822e2ec76"
+    },
+    {
+      "path": "dist/assets/v5/concrete_floor_02_arm.jpg",
+      "bytes": 146483,
+      "sha256": "01d80e4cb4eb4605902d1c1362da1c309fdba5907039acddd9226d893bbd8946"
+    },
+    {
+      "path": "dist/assets/v5/concrete_floor_02_diff.jpg",
+      "bytes": 776097,
+      "sha256": "6db84a6d87dc50508b9d134d6fbd2b7e876b8081a5f43a118a249ca18de73af5"
+    },
+    {
+      "path": "dist/assets/v5/concrete_floor_02_normal.jpg",
+      "bytes": 192757,
+      "sha256": "fcda391b57a816d646ae15544688be53790478da5cd48dbe514b3c6901415e61"
+    },
+    {
+      "path": "dist/assets/v5/corrugated_iron_02_arm.jpg",
+      "bytes": 904443,
+      "sha256": "da4197f5b3e199ef693082836ca803f9d5cad2b4998a1c1c3dc4ac384f93a890"
+    },
+    {
+      "path": "dist/assets/v5/corrugated_iron_02_diff.jpg",
+      "bytes": 568492,
+      "sha256": "7a7b43099d015c1b08ebb175da5965caeae44b86de65a727b3fffa20a7c69a93"
+    },
+    {
+      "path": "dist/assets/v5/corrugated_iron_02_normal.jpg",
+      "bytes": 489773,
+      "sha256": "9743c93668689c36a67e9c4dc8d6a0870fe91202f82dcdaf70ddc330c12f9ecb"
+    },
+    {
+      "path": "dist/assets/v5/forest_ground_04_arm.jpg",
+      "bytes": 882694,
+      "sha256": "1dea651a5626530a08544804a616847bfb47b97bb93ecb8c84f13c4f1d498d83"
+    },
+    {
+      "path": "dist/assets/v5/forest_ground_04_diff.jpg",
+      "bytes": 1113899,
+      "sha256": "50a4dda30875020c64385261aa7e00e2155b592302fa6794165f58fae73cbd2c"
+    },
+    {
+      "path": "dist/assets/v5/forest_ground_04_normal.jpg",
+      "bytes": 1326812,
+      "sha256": "9c3a0200e02ce40edffbbf9f5f623ef08ea9b1b7812b556182ec978f88887151"
+    },
+    {
+      "path": "dist/assets/v5/port-sky.hdr",
+      "bytes": 1075650,
+      "sha256": "0b92b0a2ea3b2489ec9bb7170960c3a10e5e68567d9a3d9622970fd06caf649f"
+    },
+    {
+      "path": "dist/assets/v5/rock_face_03_arm.jpg",
+      "bytes": 793241,
+      "sha256": "a1f8e60eaf4f119071840e36e165d3a9185be62bd3ac7068ab6d886aa639d29f"
+    },
+    {
+      "path": "dist/assets/v5/rock_face_03_diff.jpg",
+      "bytes": 927082,
+      "sha256": "ea48e0e47ad42c8bd312476178b1248ec66f0eb19156a26a1c222f2a40caaf2d"
+    },
+    {
+      "path": "dist/assets/v5/rock_face_03_normal.jpg",
+      "bytes": 1146788,
+      "sha256": "c6423169583f31715cf0636954bad524e806848a5f2861fcea6794275f726ff0"
+    },
+    {
+      "path": "dist/assets/v5/rocky_terrain_02_arm.jpg",
+      "bytes": 524868,
+      "sha256": "1894a2b068c006b27087703b8b8ffb9ac67af469481897d395f54735d699a8a1"
+    },
+    {
+      "path": "dist/assets/v5/rocky_terrain_02_diff.jpg",
+      "bytes": 843188,
+      "sha256": "d570c10b1d5302f4fde9e0e94f4cbab0d5e112fc3fe2b3b91c38a98bd3ddaf4b"
+    },
+    {
+      "path": "dist/assets/v5/rocky_terrain_02_normal.jpg",
+      "bytes": 993692,
+      "sha256": "f4f9d9671c660f4e509e96d5da3091887dfd557e1353e313fa2d1dc789499ffd"
+    },
+    {
+      "path": "dist/assets/v5/sandstone_cracks_arm.jpg",
+      "bytes": 222344,
+      "sha256": "94697b622aeb94acb38b474c96dce2e548a1b4c706f84a340764142e17a0e697"
+    },
+    {
+      "path": "dist/assets/v5/sandstone_cracks_diff.jpg",
+      "bytes": 696657,
+      "sha256": "cf381bbcf60aac570ce895719025a2b7adae7c03369b3d545b4f52f94e57e0e9"
+    },
+    {
+      "path": "dist/assets/v5/sandstone_cracks_normal.jpg",
+      "bytes": 1307622,
+      "sha256": "cb983540cae33979e79862fe27b4ec23a5d41c627230d3730e9d5ff6671859f9"
+    },
+    {
+      "path": "dist/assets/v5/SOURCES.json",
+      "bytes": 9203,
+      "sha256": "fd71c71bd24c7e1d352f2abfa6e77c6d214e818f0a9c8b33a2347ef1c9c88a3a"
+    },
+    {
+      "path": "dist/assets/V5资源来源与使用说明.md",
+      "bytes": 1930,
+      "sha256": "fa01cf9c09d889b13fb3225f45f382af2ef28f48e2e655c13618d669024d022a"
+    },
+    {
+      "path": "dist/assets/vehicles/V5-original-models.json",
+      "bytes": 2121,
+      "sha256": "f56e176a92ea94ba8b15cd687dc0b4678e0ddb83dcf3727b1a136f78adb5f2d3"
+    },
+    {
+      "path": "dist/audio.js",
+      "bytes": 13230,
+      "sha256": "322824a62ba0dd4162d2392b9d2a9d0b2e48cf92d1c24e5ea96cd9e8d10a6d66"
+    },
+    {
+      "path": "dist/biome-materials.js",
+      "bytes": 4489,
+      "sha256": "29de3aefc9ba280f2566c377f3c534a810cd3be5a691a7b768466884b4ca2dae"
+    },
+    {
+      "path": "dist/biome-routes.js",
+      "bytes": 7142,
+      "sha256": "859b56e92d843f7e7e2156bbabeb2f67e97c3a6e18bbc3ce1e6b31785b449d53"
+    },
+    {
+      "path": "dist/biome-scenery.js",
+      "bytes": 27412,
+      "sha256": "e2ab2240c10ec5056845a09e4083e849bd3329ea15178eaa24f32e2e7daec459"
+    },
+    {
+      "path": "dist/biome-water.js",
+      "bytes": 2749,
+      "sha256": "8c8fd659c9f19626c87c9fb2cefa27028171b6c967c1157cd4124ed151e948c1"
+    },
+    {
+      "path": "dist/canyon-clusters.js",
+      "bytes": 5028,
+      "sha256": "681913eefd3a14850273b6053a76a2c8941d12ac921555b0c874a249ea81238c"
+    },
+    {
+      "path": "dist/canyon-landscape.js",
+      "bytes": 5492,
+      "sha256": "6aae510b4545c177ad7f6faecf0af11c017089e6e76c668583d163624245beaa"
+    },
+    {
+      "path": "dist/car.js",
+      "bytes": 29177,
+      "sha256": "b686691bcaf5b9b932c2cf5603bd509a71289662b0c3a1dd9faa307e448d760a"
+    },
+    {
+      "path": "dist/cars.js",
+      "bytes": 13862,
+      "sha256": "da7721114b45039fb775366025d94bf7e2093b11b49d0e1e26bdfd1fa98f4b2c"
+    },
+    {
+      "path": "dist/challenges.js",
+      "bytes": 10062,
+      "sha256": "3771371157de22cd297108cda7668638a72249654a25fd49830455e4aae221da"
+    },
+    {
+      "path": "dist/coast-lighting.js",
+      "bytes": 1442,
+      "sha256": "502ef190afbc486c529f5e0480ce7ab4c5f7ba354e55e50b5d982f031009613d"
+    },
+    {
+      "path": "dist/coast-village-details.js",
+      "bytes": 4933,
+      "sha256": "2bbc5fd45fc99e4592a32c44e70cf90a8191ba822e5c88dc5d66269ab6dc12fe"
+    },
+    {
+      "path": "dist/coast-world.js",
+      "bytes": 17205,
+      "sha256": "fdb69edea59eee92b5bf7e22a0df7415e905a302145199e7404723a21e947d09"
+    },
+    {
+      "path": "dist/coastal-surfaces.js",
+      "bytes": 12134,
+      "sha256": "2d6ce53889317ec7069ecf723c79e1b69139910a4dce1ec0efb75fb3d33ad8de"
+    },
+    {
+      "path": "dist/cockpit.js",
+      "bytes": 8634,
+      "sha256": "6ccbd1c447fda81bf4000e3d24c7276a1ac25c7b03c656cd4273f8e0b4368f28"
+    },
+    {
+      "path": "dist/conifer-canopy.js",
+      "bytes": 2630,
+      "sha256": "304372f2690c97fc6ad971940a7fc7521db42b3f08556593e54623f36df0ef5c"
+    },
+    {
+      "path": "dist/contact-shadows.js",
+      "bytes": 2994,
+      "sha256": "dc9896e5384779c18556acb31ec8df40a2b7215bc7f3c2e7d00eaaeba1c3b7c9"
+    },
+    {
+      "path": "dist/driving.js",
+      "bytes": 34487,
+      "sha256": "fe56430f56683cfc3d6254746f0cb1d89025bba26ad69c505511a9e2358d0228"
+    },
+    {
+      "path": "dist/environment.js",
+      "bytes": 2173,
+      "sha256": "a9246e21bd68f6baabb85cecade18ed74a859b274b83315206de88f998c8c1f8"
+    },
+    {
+      "path": "dist/hero-car.js",
+      "bytes": 5706,
+      "sha256": "3d52da31076f1636f35187a9e6fc8a99845f10bf653020484618680003604435"
+    },
+    {
+      "path": "dist/hypercar.js",
+      "bytes": 22822,
+      "sha256": "33f4f733b693ed0b634d5dfbdb9cfc6049e3a423fb09c3af3f2b352e3cba44a1"
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 21616,
+      "sha256": "262e60bc83b884ddd2301f3827cffd5b6045b0ed9792c8b20b4d66da469536e4"
+    },
+    {
+      "path": "dist/licensed-v5-body.js",
+      "bytes": 14428,
+      "sha256": "7b1f69e53984494c9c42a8ef99f034ae50894cd7e307cd7f17aee252215bf654"
+    },
+    {
+      "path": "dist/main.js",
+      "bytes": 96621,
+      "sha256": "c6816c9c690a7fad79604160d724c6cbddc31ccc2276a25f3edbb12d1fc97c63"
+    },
+    {
+      "path": "dist/map-profiles.js",
+      "bytes": 3341,
+      "sha256": "109d722e4c68f46cf8a21b1a6eb46e75d1f4d63bc410e5b4f8750e2dfa1074d5"
+    },
+    {
+      "path": "dist/minimap.js",
+      "bytes": 5048,
+      "sha256": "c01002726c1ff6ef6c1e8e3f49603887bb34d4589c4d288f76a217faab8e28d9"
+    },
+    {
+      "path": "dist/nitro.js",
+      "bytes": 12637,
+      "sha256": "0230386b12b8dc18303aa9e764f73abe3be03236f695ada5991ada68081a9170"
+    },
+    {
+      "path": "dist/performance.js",
+      "bytes": 4485,
+      "sha256": "f3cfc3798277c67ab63cb641f8d905d8408ecdbcf3212b07d91ec908ec2a813a"
+    },
+    {
+      "path": "dist/race-rules.js",
+      "bytes": 1437,
+      "sha256": "623ddb122481fc8665d9fa3d6b12836306d58a46f1508f1c686068426de3042e"
+    },
+    {
+      "path": "dist/rain-scene.js",
+      "bytes": 1565,
+      "sha256": "d465d91a9b7d0a98c3d6d3c5e38dc5adeb5fc43336868a39822e9ca2be9c0dcf"
+    },
+    {
+      "path": "dist/refined-car.js",
+      "bytes": 23454,
+      "sha256": "ed7f2ece3807ea948826c9192df9971973f02ffdc5cd2abea1aa32d4876eecad"
+    },
+    {
+      "path": "dist/ridge-details.js",
+      "bytes": 4210,
+      "sha256": "2e36b99b8d9073c38d332f8ea8cccf75a54c7d3c9d16046290b4c2af9f0b5459"
+    },
+    {
+      "path": "dist/rivals.js",
+      "bytes": 23910,
+      "sha256": "59ffb2fe9cb7b0257bca420f0eeaa296a0bd298068938d99274770dc5081a992"
+    },
+    {
+      "path": "dist/roadtrip69.js",
+      "bytes": 17422,
+      "sha256": "0bace0328bceda98dd3c5890ef8bf598addb37bb1d07b44ea39fe6507cfdbfce"
+    },
+    {
+      "path": "dist/save-transfer.html",
+      "bytes": 3933,
+      "sha256": "541bf69936dabef6aecf11ab94b31183a42e33a1170cb9c3c6581a300828a52d"
+    },
+    {
+      "path": "dist/scene-culling69.js",
+      "bytes": 1397,
+      "sha256": "f406a4e9c376da3d78e7f5b157aa48bd8fcc7db4684577010e5ea851af3293e3"
+    },
+    {
+      "path": "dist/scenery-fill68.js",
+      "bytes": 11222,
+      "sha256": "da8a312e6581efd7ff06ea311e409fd77686f685d88cfc640cfba25dc5fce4ae"
+    },
+    {
+      "path": "dist/scenery-materials.js",
+      "bytes": 5965,
+      "sha256": "522a714a2541a5490cc94ace66a25f7c46d373033cb06f8f83d90a5e4bc14b58"
+    },
+    {
+      "path": "dist/scenery-port-upgrade.js",
+      "bytes": 5378,
+      "sha256": "f384f094b807ad520e7055ae0f562b13340e14f4dbd35c75a9a9e4efe74494af"
+    },
+    {
+      "path": "dist/showcase.js",
+      "bytes": 4375,
+      "sha256": "8015d6c49135027953dc1a5b54a033a43b9291cabad5d49903c5c76262c51849"
+    },
+    {
+      "path": "dist/studio.js",
+      "bytes": 18145,
+      "sha256": "f57b5043d9195bcbc00496f8245b379fd6d159e6483bae071bbe97772278fe22"
+    },
+    {
+      "path": "dist/style.css",
+      "bytes": 52678,
+      "sha256": "b9001ab6831ab9847a96c6d06d41c2f40613034334fa723a69443a502ae4c85d"
+    },
+    {
+      "path": "dist/terrain-chunks69.js",
+      "bytes": 1888,
+      "sha256": "666421fa2818bd89244608385358ff7a13a2674aae9d829952efb2de68322ba5"
+    },
+    {
+      "path": "dist/terrain.js",
+      "bytes": 3959,
+      "sha256": "a4dac3cdcd4cfd7c35c9630d1265f7cdc7988b64c0b281a14b78b3fe32c1c9c0"
+    },
+    {
+      "path": "dist/tracks.js",
+      "bytes": 16221,
+      "sha256": "fa285aa688de41c798b0cb8b082f2e5f185e1c68955de0d52b3c1a2d4c4506c8"
+    },
+    {
+      "path": "dist/utility-car.js",
+      "bytes": 18971,
+      "sha256": "5d8dfcee6e49ef7c704dc17060819e9c2b7430e057d803cff8c58b9d90f14023"
+    },
+    {
+      "path": "dist/vehicle-appearance.js",
+      "bytes": 3614,
+      "sha256": "b50c3be4807d6ff7cd84f17c1e5ec7d954e9be38978c5ac4fed36c71f7aba139"
+    },
+    {
+      "path": "dist/vendor/BufferGeometryUtils.js",
+      "bytes": 33157,
+      "sha256": "b1a98f647807b26b8a246ca72f5eeca5016f48540bea489dbd7903a776d5a1f2"
+    },
+    {
+      "path": "dist/vendor/GLTFLoader.js",
+      "bytes": 115009,
+      "sha256": "0566e58ceac7de1d3fb33392f75c4f24cdbac91c06b69bf12330f252519fbc78"
+    },
+    {
+      "path": "dist/vendor/RGBELoader.js",
+      "bytes": 11393,
+      "sha256": "91c61a1a923151c73c20c1751eeea60d708e4d8cd6284224200d01ecb6c2c93d"
+    },
+    {
+      "path": "dist/vendor/THREE-LICENSE.txt",
+      "bytes": 1081,
+      "sha256": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454"
+    },
+    {
+      "path": "dist/vendor/three.module.min.js",
+      "bytes": 691648,
+      "sha256": "08fd7545d13d2c7fb65ab691530a802dafefd638596501854f267d0fb13c39e7"
+    },
+    {
+      "path": "dist/view-prewarm69.js",
+      "bytes": 2256,
+      "sha256": "16a4213687b819999c7392aa2ec09f4f0739f9342086d68586edc3546c8c0436"
+    },
+    {
+      "path": "dist/village-ecology.js",
+      "bytes": 3067,
+      "sha256": "b54bc081c2054347f855322dab224fcea19581ff2873ed0764a0548c2736b685"
+    },
+    {
+      "path": "dist/village-materials.js",
+      "bytes": 4646,
+      "sha256": "5ec68330d059538a63ab38507b4f7b9961227d008111bb9375ad50fef1678358"
+    },
+    {
+      "path": "dist/village-site.js",
+      "bytes": 14983,
+      "sha256": "c447c064b70a51d802f74f5e633938e99f33503283d20d27794ab8a9c68b859a"
+    },
+    {
+      "path": "dist/world.js",
+      "bytes": 60795,
+      "sha256": "157f0d94aa4e1e79990fe1b89d2299755c22692f8565885d990656d85dcdfd87"
+    },
+    {
+      "path": "docs/cockpit67/驾驶舱实机.png",
+      "bytes": 728373,
+      "sha256": "85598488a563657126dc418c22e36a02861bff0a2db0efaf560d64d7ccb5e4e4"
+    },
+    {
+      "path": "docs/evidence66/alpine-day-clear.png",
+      "bytes": 1209665,
+      "sha256": "eb05b18c10d0934c4e560bb2f4ba15a1bac3740ae2120aa2926b9b95bc9c693e"
+    },
+    {
+      "path": "docs/evidence66/alpine-night-clear.png",
+      "bytes": 944546,
+      "sha256": "815171b8b1f8f66930db1523c2ec7341e7c0c26075dab95efd9f33d6ebc6af14"
+    },
+    {
+      "path": "docs/evidence66/alpine-night-rain.png",
+      "bytes": 910361,
+      "sha256": "87a7bff8ff85784849b2c0267b7ffe6867922aa65e0334a99dbbc6c6f9eda433"
+    },
+    {
+      "path": "docs/evidence66/canyon-day-clear.png",
+      "bytes": 1031873,
+      "sha256": "2f106508ae2271e9900e0fd4c7a149e2ba948909870f859f0117daf2cb6700b7"
+    },
+    {
+      "path": "docs/evidence66/canyon-night-clear.png",
+      "bytes": 879526,
+      "sha256": "d9c5431653f90058f70e3a9959d6fc9e0677ed73903646793c6a439f3538c418"
+    },
+    {
+      "path": "docs/evidence66/canyon-night-rain.png",
+      "bytes": 854965,
+      "sha256": "a63a88145a243ce8b7b45e6a8b08d4a9f363b51bffa07ea03db745910310d927"
+    },
+    {
+      "path": "docs/evidence66/city-day-clear.png",
+      "bytes": 905200,
+      "sha256": "bc1e091180f0646b73ccb67a72ce4d8f647350cd4cbde4a0e300b74a15e5eb3a"
+    },
+    {
+      "path": "docs/evidence66/city-night-clear.png",
+      "bytes": 686083,
+      "sha256": "f9fc1472114e49205a367af457165e1138b7f40b9e23cd82a9e8136b8b9a8141"
+    },
+    {
+      "path": "docs/evidence66/city-night-rain.png",
+      "bytes": 674014,
+      "sha256": "b8001db4295955c6278243032a8fbb48a5c25f48fac269ec1b0ef1d1aeaa120d"
+    },
+    {
+      "path": "docs/evidence66/coast-day-clear.png",
+      "bytes": 1061928,
+      "sha256": "6ab7b0cdb8bc7d07e660af4222233915f5a11895dbb841a22128632776913bbf"
+    },
+    {
+      "path": "docs/evidence66/coast-night-clear.png",
+      "bytes": 797112,
+      "sha256": "c4e7a3558f03ce0eb5867e419a2ba9fe300e3557c37923c75cedc88c47764645"
+    },
+    {
+      "path": "docs/evidence66/coast-night-rain.png",
+      "bytes": 776447,
+      "sha256": "c4e85f09ca32497b2692b5d6b288388b4b0d0fcb856e21262e609ee6c6bddf17"
+    },
+    {
+      "path": "docs/evidence66/index.html",
+      "bytes": 3790,
+      "sha256": "78e38c3caac0996ef8724317f502f98a8628d61293c15447371bae26f74b9ca6"
+    },
+    {
+      "path": "docs/evidence66/port-day-clear.png",
+      "bytes": 979243,
+      "sha256": "f1cdeca71e8bc7277a4c9acedc134c57b2b751f56ff39bb5f5fb04573017ac61"
+    },
+    {
+      "path": "docs/evidence66/port-night-clear.png",
+      "bytes": 711050,
+      "sha256": "bb1408f789609a7583a84235266a8cfbe23f1216e421dfdd4e7b3ba103be659f"
+    },
+    {
+      "path": "docs/evidence66/port-night-rain.png",
+      "bytes": 692601,
+      "sha256": "f43d62d10b99dec0fe08abf88b91615152eb0beee5bd982b058372e536f1e5f3"
+    },
+    {
+      "path": "docs/evidence68/三车视线检查.json",
+      "bytes": 273,
+      "sha256": "070c2316c7361f363b2d6ae15437a23d60b3a91676b48321faca44b8f1f41a1b"
+    },
+    {
+      "path": "docs/evidence68/城市-人机.png",
+      "bytes": 112843,
+      "sha256": "57d50d65f7c321a85036122bc9d9f7b7c133eb181f10ba6ca7657b3b3a9bdee2"
+    },
+    {
+      "path": "docs/evidence68/性能-06.7.json",
+      "bytes": 19390,
+      "sha256": "10090e545a373c40c6b1fd9849a3ef3dde42c3c2dbfc86d3bd1d3f988bf35ffa"
+    },
+    {
+      "path": "docs/evidence68/性能-06.8-均衡.json",
+      "bytes": 12983,
+      "sha256": "1ba05c6585df2cf5d634c5e56d200cb137e354c4f93b65db15d92557a799a6f1"
+    },
+    {
+      "path": "docs/evidence68/性能-06.8-流畅.json",
+      "bytes": 12915,
+      "sha256": "a8632a4e8e94be84eee036071817ce912618039b678c1b75a128bcadf61eb047"
+    },
+    {
+      "path": "docs/evidence68/驾驶舱-城市.png",
+      "bytes": 88307,
+      "sha256": "e8289541d71b45c8a55374e1c494de63c988cfdd71ac1a4f9a80687506a067e0"
+    },
+    {
+      "path": "docs/evidence68/驾驶舱-实际驾驶.png",
+      "bytes": 102923,
+      "sha256": "bda8b624b45bbca07cc12b7bdac4117dd025efaf50eb3381648a07da46f4625c"
+    },
+    {
+      "path": "docs/evidence68/驾驶舱-峡谷.png",
+      "bytes": 89131,
+      "sha256": "8e7ff70467abd8e432ef9f2737b5ad94e9b15efe0becb2d642694e0a422284d2"
+    },
+    {
+      "path": "docs/evidence68/驾驶舱-翡翠海岸-最终版.png",
+      "bytes": 100254,
+      "sha256": "893bcaafe02cb795e49c8b349d412cdccdfd1cdd361518e6d51904d84bc9a7bd"
+    },
+    {
+      "path": "docs/evidence68/驾驶舱-越野车.png",
+      "bytes": 76516,
+      "sha256": "348580423ceba60bdaa8d0cca68bce466433c0f7954536d9aae1c9c9249d774b"
+    },
+    {
+      "path": "docs/performance66/baseline.json",
+      "bytes": 56098,
+      "sha256": "16eabc750861479cff48e00e6b139cbb21ec29db8e1569faa86bba4f18d29b0c"
+    },
+    {
+      "path": "docs/performance66/optimized-plane.json",
+      "bytes": 55909,
+      "sha256": "e4a9cc900ac97fbaf270bbebd105126d8795871aed99105cca36cc4879f53872"
+    },
+    {
+      "path": "docs/performance66/optimized.json",
+      "bytes": 55976,
+      "sha256": "7b89402d6796319f1fea0c52977193dcb07154dc60107fa83c7dbf4cd3329386"
+    },
+    {
+      "path": "docs/scenery-evidence/alpine-driving.jpg",
+      "bytes": 261061,
+      "sha256": "4f4d15f9f978da4c83a7c7942d9e1dccc44de016303a8818841d6a471434a8ad"
+    },
+    {
+      "path": "docs/scenery-evidence/canyon-1080-driving.jpg",
+      "bytes": 274548,
+      "sha256": "00b51f0c399e63be0fa7a4816ce8391d96fc860c0bc9ba64eb05e94353d72e02"
+    },
+    {
+      "path": "docs/scenery-evidence/canyon-driving.jpg",
+      "bytes": 242776,
+      "sha256": "224e4a3b73a842eed6e7ee51fe91dd33346bed0936357bf22987d76867540fe9"
+    },
+    {
+      "path": "docs/scenery-evidence/coast-driving.jpg",
+      "bytes": 264269,
+      "sha256": "f65edff52b96e0b35b4265ee769903077be818560fb3cf7d09df1ac67cdae415"
+    },
+    {
+      "path": "docs/scenery-evidence/mountain-forest-in-game.jpg",
+      "bytes": 80289,
+      "sha256": "833888e2dbce98896dbf3a2deb7db9f6e7e6643a50ba4b52b4622a1de1839cee"
+    },
+    {
+      "path": "docs/v5/index.html",
+      "bytes": 69406,
+      "sha256": "a181e4a35725d226c1fe60e9e146f63b231af25971101a3057daa548e6ed4f96"
+    },
+    {
+      "path": "docs/v5/launcher-ready.png",
+      "bytes": 109603,
+      "sha256": "0ed3fac025667bf7b4452cca626a0174160e27835dbcb1f99f03508c85dec09a"
+    },
+    {
+      "path": "docs/v5/repair-checks.json",
+      "bytes": 1844,
+      "sha256": "a3aeade26d1f8f41d579f3dd347015e370ae88db6cf5cc6f2c915b9b83c0ba7d"
+    },
+    {
+      "path": "docs/v5/runtime/activity-series.json",
+      "bytes": 5211,
+      "sha256": "426f6d44339b0f87a398387ff9719a4a0f37da89bdcbaa1de75ed0ca5416cf98"
+    },
+    {
+      "path": "docs/v5/runtime/all-car-hulls.json",
+      "bytes": 1282,
+      "sha256": "b8a98b6d8d9b4ae245ac33c91b10fe398262bf938a149ad6bb95286008ea12cd"
+    },
+    {
+      "path": "docs/v5/runtime/all-jumps.json",
+      "bytes": 4941,
+      "sha256": "0d323e78f4e87279ba167b316ecd334ee49f20a4b665d7d1b0e16af8ca956ab6"
+    },
+    {
+      "path": "docs/v5/runtime/canyon-shortcut-faster.json",
+      "bytes": 681,
+      "sha256": "8823e266009ce7391aec79e75d664399c9d947ff472177e8eb4e78cc9e599fe1"
+    },
+    {
+      "path": "docs/v5/runtime/car-hulls.json",
+      "bytes": 437,
+      "sha256": "5c2a3835735f1fa91c64d624e70e3e4b11bf87eb04a52d87c9d856271173b82f"
+    },
+    {
+      "path": "docs/v5/runtime/car-stress.json",
+      "bytes": 23092,
+      "sha256": "dbffc90e52272b5117370fad4f48e8a5eedc6c645b6b9df2a5197e640f64327e"
+    },
+    {
+      "path": "docs/v5/runtime/coast-wall-collisions.json",
+      "bytes": 9511,
+      "sha256": "31957b1890c87b41556e025ed34ca794abc43a8951e0285e445e01bb842a1b6c"
+    },
+    {
+      "path": "docs/v5/runtime/device-after.json",
+      "bytes": 1379,
+      "sha256": "785b42c3f7345d1ac059476c6e3cae37e4c77c349d9a087aaa9cbe770d42a6d8"
+    },
+    {
+      "path": "docs/v5/runtime/device-before.json",
+      "bytes": 1721,
+      "sha256": "bab30d1ffa83514bb7a170d75d3a282a7099b96e755bd2961e70b19ff75bd07e"
+    },
+    {
+      "path": "docs/v5/runtime/final-media-and-syntax-check.json",
+      "bytes": 6187,
+      "sha256": "02057513dbe4eb3a17caa8ca63378d8d07351f25a162dc8afdbe235a28923108"
+    },
+    {
+      "path": "docs/v5/runtime/final-workflow.json",
+      "bytes": 53,
+      "sha256": "13d447ed4b7c7d1083699b1991f6c3b6dd62aaf26f622d0e5566332427a20027"
+    },
+    {
+      "path": "docs/v5/runtime/full-race-finish-logic.json",
+      "bytes": 1244,
+      "sha256": "16fad224cbba1af2dd46de7a835b02fb9c4af3ee657b1f9a646fa3a1ea665d09"
+    },
+    {
+      "path": "docs/v5/runtime/garage-reload-ui.json",
+      "bytes": 320,
+      "sha256": "f78d1d37bda8e2a42037ce69fbf2043ff4f2cc77a97c1ebdd498a79833c451e9"
+    },
+    {
+      "path": "docs/v5/runtime/livery-reward-persistence.json",
+      "bytes": 296,
+      "sha256": "aebdd169c74906cf4df2fa5215ea58ca8754c6e2cfc6a42d82df412ef468b67a"
+    },
+    {
+      "path": "docs/v5/runtime/map-cycles.json",
+      "bytes": 1696,
+      "sha256": "584c0422d6bdda5fc0f35a773202095aa0a751f21621945814bd261b1a02d102"
+    },
+    {
+      "path": "docs/v5/runtime/new-props-bridges.json",
+      "bytes": 109517,
+      "sha256": "1a606fc8ebe44bcce0ea174c6b8414b9ce7dcdbe6becaa0b5d4b2e9a66e3ee24"
+    },
+    {
+      "path": "docs/v5/runtime/origin-preservation-ui.json",
+      "bytes": 424,
+      "sha256": "ca12c7aadf0a3ff33ed0294053c311feb72df728e1679c7bfad96013e5e032ec"
+    },
+    {
+      "path": "docs/v5/runtime/performance-series.json",
+      "bytes": 40010,
+      "sha256": "83bb9fff82521498f813c8191e54ccb2aa7ef25e1bdc2af1e4b78175c86bbf12"
+    },
+    {
+      "path": "docs/v5/runtime/performance-timing-check.json",
+      "bytes": 1422,
+      "sha256": "a0199e0d0a0ca9a15b67a22a3ccaace4d2fbe84a149c23655cf0c5855af73d32"
+    },
+    {
+      "path": "docs/v5/runtime/photo-cameras.json",
+      "bytes": 16289,
+      "sha256": "3991ecfae3622a5df1d7b99d8c42339da582fa72ff588205ebab3d04662d2b56"
+    },
+    {
+      "path": "docs/v5/runtime/portable-launch-smoke.json",
+      "bytes": 1132,
+      "sha256": "9625f592a2cf5a69573c9ca7791b4ff56ecf0084c39ba84c9443cbb0d7e68dea"
+    },
+    {
+      "path": "docs/v5/runtime/preservation.json",
+      "bytes": 430,
+      "sha256": "b47235823478207d59a866f2d99494333034295a7fbd2983c512226d2508ac68"
+    },
+    {
+      "path": "docs/v5/runtime/retry-ui.json",
+      "bytes": 255,
+      "sha256": "15f627803bb7589f6aed279825dec4fcebcf513f65200d930bd902c7808a733c"
+    },
+    {
+      "path": "docs/v5/runtime/review-video-playback.json",
+      "bytes": 121,
+      "sha256": "5ce597bdf00e8b7c03a77098e814cf29de176369078e37dcc99a77475075fbe5"
+    },
+    {
+      "path": "docs/v5/runtime/routes-physics.json",
+      "bytes": 10308,
+      "sha256": "0f54ec28bcf0638fe91ea1ec8433629a2c43f98a646ac031a735d66afc9ca380"
+    },
+    {
+      "path": "docs/v5/runtime/screenshot-camera-verification.json",
+      "bytes": 1284,
+      "sha256": "0ce554361b2fddc6ae2a0dc1806540d739c7a775a77b26bda81e93429b6ca9de"
+    },
+    {
+      "path": "docs/v5/runtime/shortcuts-conservative.json",
+      "bytes": 2010,
+      "sha256": "91d228b7afeb6ecd26a20fa4094aa71e2de88e290f472615ae29bc279f33059b"
+    },
+    {
+      "path": "docs/v5/runtime/terrain-scenery.json",
+      "bytes": 1433,
+      "sha256": "ac828d4b244d921810a03448d21f693467e9326829ee25670fcdca404af981ba"
+    },
+    {
+      "path": "docs/v5/runtime/video-series.json",
+      "bytes": 1431,
+      "sha256": "38ce6345d063dfe576af027a6684f27d2fce9e9d757a8706fb37f4b72d174e33"
+    },
+    {
+      "path": "docs/v5/runtime/videos-verification.json",
+      "bytes": 6040,
+      "sha256": "d9031d0ccd2fc7497361047164d423649eb0c1374b4475cd9bfb76ae9aada4e6"
+    },
+    {
+      "path": "docs/v5/runtime/visible-exhaust-emitter-check.json",
+      "bytes": 2983,
+      "sha256": "49b58bff80c39be9bee906b99f80d29b00b043266ad9949c0cfd7f8e772d6dd4"
+    },
+    {
+      "path": "docs/v5/screenshots/after/alpine-landmark.jpg",
+      "bytes": 807418,
+      "sha256": "cbffae091e991ed1e05f455b696ebbb0d4125b5b6d0c246333d0c73ea3ec5031"
+    },
+    {
+      "path": "docs/v5/screenshots/after/alpine-offroad.jpg",
+      "bytes": 907824,
+      "sha256": "5eeed7c7e622456af6bfb5b647e78ee54ceebce297e27e4e3903df5a6f68cb2d"
+    },
+    {
+      "path": "docs/v5/screenshots/after/alpine-road.jpg",
+      "bytes": 880459,
+      "sha256": "4da37bc4985a790d74eed98db8305a03db2748fa2807b91b5797b200f4401b53"
+    },
+    {
+      "path": "docs/v5/screenshots/after/alpine-start.jpg",
+      "bytes": 840596,
+      "sha256": "6ddd83abb33d375325d42e4d3a1616548eedc0351fed3d481552b695917beef0"
+    },
+    {
+      "path": "docs/v5/screenshots/after/cameras-first.json",
+      "bytes": 14594,
+      "sha256": "a6309d8cdb6884203c53d4a4afdfdaeecd77f2389ef1ca7002c1eb6ec082f505"
+    },
+    {
+      "path": "docs/v5/screenshots/after/canyon-landmark.jpg",
+      "bytes": 617133,
+      "sha256": "24720ae9ec772a9e6f314caf380d6dd96fdcb9fd3a6097d4a459a073b20bcf0d"
+    },
+    {
+      "path": "docs/v5/screenshots/after/canyon-offroad.jpg",
+      "bytes": 692344,
+      "sha256": "99eb4002247711439f77f4402f4329e6747d2283f724d7666bf9c888af10a9b2"
+    },
+    {
+      "path": "docs/v5/screenshots/after/canyon-road.jpg",
+      "bytes": 650585,
+      "sha256": "e8ca06c97b207012450b041267d960781a39f9eba20cc7e00e5cdc7b8189171f"
+    },
+    {
+      "path": "docs/v5/screenshots/after/canyon-start.jpg",
+      "bytes": 712162,
+      "sha256": "cd852e2519a7626ac26f8403c29ce0a5252276f56bbbce41391e9fb446f9169b"
+    },
+    {
+      "path": "docs/v5/screenshots/after/coast-landmark.jpg",
+      "bytes": 727145,
+      "sha256": "2be19bfc7c71701ae3097c60e4e39c585b944442eb93d686349fdafe2be15887"
+    },
+    {
+      "path": "docs/v5/screenshots/after/coast-monarque-carFront.jpg",
+      "bytes": 932090,
+      "sha256": "2bd309c9df9841b55e09498f36e9a9d74842f92d2efa5b8a2432666510ad8c42"
+    },
+    {
+      "path": "docs/v5/screenshots/after/coast-monarque-carRear.jpg",
+      "bytes": 926008,
+      "sha256": "863304cf85efe5b8fe3c68c81821e3d159147d59131b9ac173e0ba0731b6a544"
+    },
+    {
+      "path": "docs/v5/screenshots/after/coast-monarque-carSide.jpg",
+      "bytes": 783959,
+      "sha256": "ee26914f9b76e9872ca1f79bfff4989a8a7111b63125472f2b84de457628b4cf"
+    },
+    {
+      "path": "docs/v5/screenshots/after/coast-monarque-chase.jpg",
+      "bytes": 760861,
+      "sha256": "e458e7bee10e27802d4cc80bd0a17d4d534df250502e2586c6cb3467d8fa7a39"
+    },
+    {
+      "path": "docs/v5/screenshots/after/coast-monarque-wheel.jpg",
+      "bytes": 646886,
+      "sha256": "c856a8906f9b801de7c6a620356d8ff1edf45e5bea55d3cc88f4c6cd28fa3d04"
+    },
+    {
+      "path": "docs/v5/screenshots/after/coast-spectra-carFront.jpg",
+      "bytes": 940539,
+      "sha256": "43e06696153d9b41ece616e5faf4f0aa6962d0ba18dd0bcc83bc4da2b3d180b4"
+    },
+    {
+      "path": "docs/v5/screenshots/after/coast-spectra-carRear.jpg",
+      "bytes": 926899,
+      "sha256": "aa01bfe319e623e41f4b1f6aa7e5efb4a209c3fa0e1b2991c9ba291316f326a6"
+    },
+    {
+      "path": "docs/v5/screenshots/after/coast-spectra-carSide.jpg",
+      "bytes": 806521,
+      "sha256": "1f63f167aa93fb80cd15d8cc4cd05f0db60164655515cdbae1b14eccf7fbee9d"
+    },
+    {
+      "path": "docs/v5/screenshots/after/coast-spectra-chase.jpg",
+      "bytes": 759407,
+      "sha256": "1127cfd3ef10b2b93a005180a047c4ab6b674403e8a1c951baa9637eadc738f4"
+    },
+    {
+      "path": "docs/v5/screenshots/after/coast-spectra-wheel.jpg",
+      "bytes": 719062,
+      "sha256": "fb00d80776013444a1ab6ca9464b0756c2a5acfec330a62d4689372d3528a192"
+    },
+    {
+      "path": "docs/v5/screenshots/after/coast-veloce-carFront.jpg",
+      "bytes": 940761,
+      "sha256": "c4fe0f8ac9ac2880bb61652056f845ffa5a8ebc687ae6b8cad8a53b91d5a3f7c"
+    },
+    {
+      "path": "docs/v5/screenshots/after/coast-veloce-carRear.jpg",
+      "bytes": 933668,
+      "sha256": "e64c8e725b8dd5aab9d20d271db5773bcf49f6b0e2d4216ca5106d43b4fa54f0"
+    },
+    {
+      "path": "docs/v5/screenshots/after/coast-veloce-carSide.jpg",
+      "bytes": 799805,
+      "sha256": "21fdb191f4d4aa8275206edbdce7c1493d3671490c81f7ab18aa3edaa291c953"
+    },
+    {
+      "path": "docs/v5/screenshots/after/coast-veloce-chase.jpg",
+      "bytes": 762216,
+      "sha256": "86c748f2f6cc890d6aa6e84d90d5574fb6013a918cbaee65e135b129a622afec"
+    },
+    {
+      "path": "docs/v5/screenshots/after/coast-veloce-wheel.jpg",
+      "bytes": 732027,
+      "sha256": "c7c3b5a61d366c8b165ea7d9f003eee7e746d9f8e6a9633a8e74b17c3e03ba8f"
+    },
+    {
+      "path": "docs/v5/screenshots/after/port-landmark.jpg",
+      "bytes": 637855,
+      "sha256": "d1aebacd71dcb670d4658fb7772b9725df9dab5661ea4527933d680700216ea1"
+    },
+    {
+      "path": "docs/v5/screenshots/after/port-monarque-carFront.jpg",
+      "bytes": 663880,
+      "sha256": "1d2a81e21e16583953b13201ecdcc2eaca25ad48df353fc3ced4ab4c5f52e961"
+    },
+    {
+      "path": "docs/v5/screenshots/after/port-monarque-carRear.jpg",
+      "bytes": 663147,
+      "sha256": "26ee70898c9965f1b6c8dfd7d8d4a1e46d636bb4c586e34e90a4972af49535c6"
+    },
+    {
+      "path": "docs/v5/screenshots/after/port-monarque-carSide.jpg",
+      "bytes": 593117,
+      "sha256": "7750d7fd8667958890086b3a91d7a8c80751718c4a7e6ac61f77b1a0306d640e"
+    },
+    {
+      "path": "docs/v5/screenshots/after/port-monarque-chase.jpg",
+      "bytes": 631310,
+      "sha256": "89e5e6214d14b8ee491f98e39ee141e296b12b6f9fa929fbeaae329a7e941c89"
+    },
+    {
+      "path": "docs/v5/screenshots/after/port-monarque-wheel.jpg",
+      "bytes": 547423,
+      "sha256": "5c0c6b00f6e0aaf9c1a2f2d2fbc557a98a4ad29748a650c6ad4402a14c02c67c"
+    },
+    {
+      "path": "docs/v5/screenshots/after/port-offroad.jpg",
+      "bytes": 699355,
+      "sha256": "70b556cf99c11dd73d46fb0f34816814187ce190dd5d868812b700d707413d26"
+    },
+    {
+      "path": "docs/v5/screenshots/after/port-road.jpg",
+      "bytes": 602559,
+      "sha256": "825b0be798fe720e3c5828ac60e5691cc38d58309cc3ff83b5be52aad8e46173"
+    },
+    {
+      "path": "docs/v5/screenshots/after/port-spectra-carFront.jpg",
+      "bytes": 677017,
+      "sha256": "41a408bd2721e158370b4bb0e1a2bc0fe750d24873bd26ce66ea367335ccc61f"
+    },
+    {
+      "path": "docs/v5/screenshots/after/port-spectra-carRear.jpg",
+      "bytes": 669652,
+      "sha256": "70c79400a46fae9aad65d3b827a12fab6b405ffa48233d72e07b073167a4633b"
+    },
+    {
+      "path": "docs/v5/screenshots/after/port-spectra-carSide.jpg",
+      "bytes": 603714,
+      "sha256": "98f55ea3b6bfbec79c7e240142fc078dfe2bb0c003cf042ba2512f09b5aba6fb"
+    },
+    {
+      "path": "docs/v5/screenshots/after/port-spectra-chase.jpg",
+      "bytes": 632340,
+      "sha256": "7dac634398261ca637e89a48c697be218a9bdf6196d87c5172a7ce84d671e46a"
+    },
+    {
+      "path": "docs/v5/screenshots/after/port-spectra-wheel.jpg",
+      "bytes": 625157,
+      "sha256": "64859cbe25b3a94ac6bcd0fac6c5578c777665873e299252483f2e206e0d8d5e"
+    },
+    {
+      "path": "docs/v5/screenshots/after/port-start.jpg",
+      "bytes": 612846,
+      "sha256": "118187c8038bea62a6ffa1aed9ecca91d2d537572d164efb5fd08270865de8e5"
+    },
+    {
+      "path": "docs/v5/screenshots/after/port-veloce-carFront.jpg",
+      "bytes": 674720,
+      "sha256": "ee52f20f09c3cd071b5be821735c3717bdc975eaecdd3cbc6f89d583ada7d58e"
+    },
+    {
+      "path": "docs/v5/screenshots/after/port-veloce-carRear.jpg",
+      "bytes": 675391,
+      "sha256": "98033c997498009c4112e83a72f178ef3918622eff5a292cb6c69b9b7efd473a"
+    },
+    {
+      "path": "docs/v5/screenshots/after/port-veloce-carSide.jpg",
+      "bytes": 592876,
+      "sha256": "1d78ad9b35284181271978d00e89dcadc34e8b1ff2dd72f2e8b6493364a3852b"
+    },
+    {
+      "path": "docs/v5/screenshots/after/port-veloce-chase.jpg",
+      "bytes": 634341,
+      "sha256": "a8efca0e0f48c9e7b97e74dda14787d49bb1e028a1dcddf930b2dd304896cabe"
+    },
+    {
+      "path": "docs/v5/screenshots/after/port-veloce-wheel.jpg",
+      "bytes": 632325,
+      "sha256": "760f26f4b19c523a3798eec71d1917a5973c1c13d5b45bf0114884d603ce6895"
+    },
+    {
+      "path": "docs/v5/screenshots/before/alpine-landmark.jpg",
+      "bytes": 755361,
+      "sha256": "4b3a9a6a8ba43edcd2030a18f7dce7c2eb440e105d990827e7731b1895a9188e"
+    },
+    {
+      "path": "docs/v5/screenshots/before/alpine-offroad.jpg",
+      "bytes": 967419,
+      "sha256": "91339c02c5d413399e122a5b52bf7decfd6687f9d2442670fb276627587b14db"
+    },
+    {
+      "path": "docs/v5/screenshots/before/alpine-road.jpg",
+      "bytes": 654736,
+      "sha256": "478e773395fbe685534839fef7af38152e3a6e21896630f98a8d192b8f8e61f1"
+    },
+    {
+      "path": "docs/v5/screenshots/before/alpine-start.jpg",
+      "bytes": 708845,
+      "sha256": "7539a9a9649539353faad63d6714aeca2c693fe1e4e0eb5c180b3583127724e5"
+    },
+    {
+      "path": "docs/v5/screenshots/before/cameras.json",
+      "bytes": 3857,
+      "sha256": "7ced03d37d7988722aeca0378a0a143d0e429163453df4cea8cac96ff44621b7"
+    },
+    {
+      "path": "docs/v5/screenshots/before/canyon-landmark.jpg",
+      "bytes": 997418,
+      "sha256": "76bf6550d24c9c5976b984f88fc55fddb38729c764276aa50419793389e38e8c"
+    },
+    {
+      "path": "docs/v5/screenshots/before/canyon-offroad.jpg",
+      "bytes": 1281997,
+      "sha256": "a27a5d8096a2e5793e32d4a80aa377fee1eff7a31173a0b3b9bc8df9c45a5acb"
+    },
+    {
+      "path": "docs/v5/screenshots/before/canyon-road.jpg",
+      "bytes": 785602,
+      "sha256": "3c27632b654e02b53c072007aaab01f6e7963f63fd4ce229a9e85a7823b36afa"
+    },
+    {
+      "path": "docs/v5/screenshots/before/canyon-start.jpg",
+      "bytes": 796975,
+      "sha256": "a8dcc8358dd7a006f0e46029c6e7a88bffe8bf8530b59fe17d703582b73ec9d0"
+    },
+    {
+      "path": "docs/v5/screenshots/before/coast-spectra-carFront.jpg",
+      "bytes": 956638,
+      "sha256": "a0b4b7074e86837b7b3f85e9ffe2ba9648d43d927cdc1e8cedda6d631f56139d"
+    },
+    {
+      "path": "docs/v5/screenshots/before/port-landmark.jpg",
+      "bytes": 617885,
+      "sha256": "9b44b5d1240150abd405a8e429e855c0250fd7692aabe2ef5436ecd0662b0c3f"
+    },
+    {
+      "path": "docs/v5/screenshots/before/port-offroad.jpg",
+      "bytes": 818597,
+      "sha256": "ef7428d50c8107c0ea2bf71822545e7f1e5a759096879b6f67c8979e4c89ec74"
+    },
+    {
+      "path": "docs/v5/screenshots/before/port-road.jpg",
+      "bytes": 553512,
+      "sha256": "3aff25a1c6ae4c2c08bfa7e136fa8c5769c27b62228f811507a59c3e937c757d"
+    },
+    {
+      "path": "docs/v5/screenshots/before/port-start.jpg",
+      "bytes": 652571,
+      "sha256": "3364e50e53b8c1ca57426318491e2b443e11d88ad8e4f32b652fdbbcfaedd288"
+    },
+    {
+      "path": "docs/v5/screenshots/compare-page.png",
+      "bytes": 96609,
+      "sha256": "9e628d9dbd13e0b737b0005865a5ffcbcb010327b9ed6eebae9b99fe1caf9f36"
+    },
+    {
+      "path": "docs/v5/screenshots/game-main-menu.png",
+      "bytes": 66718,
+      "sha256": "6cde12e9bac4b4c1c02eb134d621ce448c01212315bd6fdfecd6f5e99971987f"
+    },
+    {
+      "path": "docs/v5/screenshots/nitro-driving.jpg",
+      "bytes": 274153,
+      "sha256": "b76310f6a6636db6fb69b64364a95cd2e5e12d743b3540eeb6c65f9912da7a9d"
+    },
+    {
+      "path": "docs/v5/screenshots/review-page.png",
+      "bytes": 77382,
+      "sha256": "6534811216b338b694c6372ad43a7f562ad2dcc95581752f2aaa8bdbfde45f83"
+    },
+    {
+      "path": "docs/v5/videos/coast-monarque-cyan.json",
+      "bytes": 569175,
+      "sha256": "ca7e4975ebeae5f12667bbc40529102ab11d9b90e8f386edd3a6eb3a284dfcb7"
+    },
+    {
+      "path": "docs/v5/videos/coast-monarque-cyan.mp4",
+      "bytes": 16230808,
+      "sha256": "072044f139f7d647ddcdef8e3d945396d8d25e5418933eadf75d6a736d2fff55"
+    },
+    {
+      "path": "docs/v5/videos/coast-spectra-blueviolet-jump.json",
+      "bytes": 272869,
+      "sha256": "fe5af1dcab764484e7f294a3fba16d0e02a6c6a1116f24bb585e17ab3270ec7a"
+    },
+    {
+      "path": "docs/v5/videos/coast-spectra-blueviolet-jump.mp4",
+      "bytes": 8740833,
+      "sha256": "e419ab7f4b1101ce159509442c48a4b5547040a6acb1322abde485e530695237"
+    },
+    {
+      "path": "docs/v5/videos/coast-spectra-blueviolet.json",
+      "bytes": 570694,
+      "sha256": "de019748b5f61309059beb8594bf3bf2c99836b92a4b0c10841b8f0a42186996"
+    },
+    {
+      "path": "docs/v5/videos/coast-spectra-blueviolet.mp4",
+      "bytes": 17636556,
+      "sha256": "876eeeb7f95151c4f0a5ee06e63e72b106dd1ed741b0414ffc834dca4aa24806"
+    },
+    {
+      "path": "docs/v5/videos/coast-veloce-gold.json",
+      "bytes": 568900,
+      "sha256": "c45314fd3c62c922b4548917a196b3381e73a334c77220d8b2b89c1892b0d299"
+    },
+    {
+      "path": "docs/v5/videos/coast-veloce-gold.mp4",
+      "bytes": 16365122,
+      "sha256": "5b83dd4d0048c8c3ac6cc6f2592c81fc1ea51ce000128b4128c121ff725ca85f"
+    },
+    {
+      "path": "docs/v5/videos/port-monarque-blueviolet.json",
+      "bytes": 567725,
+      "sha256": "688053d2274b6b57fd682b8ba39959a77c7bce3073bea45b1c13bafc7c7b6e86"
+    },
+    {
+      "path": "docs/v5/videos/port-monarque-blueviolet.mp4",
+      "bytes": 16059020,
+      "sha256": "ef2b4d50503ecce84dc66947c0f94bedae8dbfb7af6f9e8db6cd5fef41ed78b8"
+    },
+    {
+      "path": "docs/v5/videos/port-spectra-rainbow.json",
+      "bytes": 566326,
+      "sha256": "12b98d7a9fdb1e2010e2dd9fe09c443558e4946779c76a025ee8bece41fe5c9a"
+    },
+    {
+      "path": "docs/v5/videos/port-spectra-rainbow.mp4",
+      "bytes": 15734426,
+      "sha256": "b37a2e88682699454c7959afd4fe27090b7b9cce4418e10c8efad6eb1d5bd79e"
+    },
+    {
+      "path": "docs/v5/videos/port-veloce-rainbow.json",
+      "bytes": 566285,
+      "sha256": "d01964ed5d462a16e95babae1cce1999c30c51a4550f90262ad6ea42d8c00b64"
+    },
+    {
+      "path": "docs/v5/videos/port-veloce-rainbow.mp4",
+      "bytes": 15991552,
+      "sha256": "b6ab7e0acd54eda511bd59b0fc50094d728d53db9ecdc6bf2a7311fabf9a46c6"
+    },
+    {
+      "path": "docs/v5/启动与车库修复说明.md",
+      "bytes": 3018,
+      "sha256": "485afe0e916b62251e8817f2b3290dd78973e6a49e7ece8e5d8fc8e8eaf16fbe"
+    },
+    {
+      "path": "docs/v5/四图差距与实施清单.md",
+      "bytes": 3190,
+      "sha256": "85c9460c3e2cc514690dcc65f7872326751ceba1377e2aeb268f0683df150247"
+    },
+    {
+      "path": "docs/v5/逐图验收说明.md",
+      "bytes": 11610,
+      "sha256": "5acac40c2737019fb1439bdcc44ddbdf1c6e0ed11290c1e6f9b504b6e3ae75c9"
+    },
+    {
+      "path": "docs/v6/screenshots/city-start.png",
+      "bytes": 1580039,
+      "sha256": "9ae246da4bda0304afba037b041876c60135c876d0ef001dc4ab900ca635a317"
+    },
+    {
+      "path": "docs/v6/screenshots/dashboard-warning.png",
+      "bytes": 1633770,
+      "sha256": "09271f6813eb972e8bd510f0ed93f43cf80d51add3a2c1ed576cd5e1e5d9bec8"
+    },
+    {
+      "path": "docs/v6/screenshots/first-person.png",
+      "bytes": 1117652,
+      "sha256": "50e21925886c25da4cdec94ab384ef898103f9951d8e8629b2026a5e4529345a"
+    },
+    {
+      "path": "docs/v6/screenshots/garage-search.png",
+      "bytes": 1607847,
+      "sha256": "9397b67eab060a502eb5c0963572643a38ccc24ff23a78e8f7bed5f35ebfda94"
+    },
+    {
+      "path": "docs/v69/69-race-finish.png",
+      "bytes": 1479191,
+      "sha256": "6b10f7def6138c5a34b5965b6d129cb040cde691e744ff25af5595fef0a51347"
+    },
+    {
+      "path": "docs/v69/69-race-start.png",
+      "bytes": 1706410,
+      "sha256": "ee6a60c689a6eb097b2fa4db6da2bd0225f44a213f1aec96630bf4d1c113224c"
+    },
+    {
+      "path": "docs/v69/69-trip-1.png",
+      "bytes": 2087234,
+      "sha256": "5d33ec155e7070c50545043d65177b83afce3fe3b65144e10b276a37d215fd6a"
+    },
+    {
+      "path": "docs/v69/69-trip-2.png",
+      "bytes": 2003902,
+      "sha256": "25bd50ff76ec5d3d3fd90f2088e9ba6216064111ccade625d7ab248033835d5e"
+    },
+    {
+      "path": "docs/v69/69-trip-3.png",
+      "bytes": 934202,
+      "sha256": "da8435d88b659aa29f1c1dc965b2a218c8a84b42b6bdcbf96b9e255c62af4442"
+    },
+    {
+      "path": "docs/v69/69-trip-4.png",
+      "bytes": 1948749,
+      "sha256": "562f32a0cfdb530b763d2e31dd7a4ff845cd0a480359aed87e98b953a0f35a0b"
+    },
+    {
+      "path": "docs/v69/69-trip-5.png",
+      "bytes": 1853594,
+      "sha256": "823f50fac76a8b96074f5ff42b8b9ac3d228f48f9ac8c0529b13b42278d7f561"
+    },
+    {
+      "path": "docs/v69/69-trip-6.png",
+      "bytes": 1946191,
+      "sha256": "ca0422d2e968ab6d49d324f9f12360957d42e35bf11e65893e734bd4698827f8"
+    },
+    {
+      "path": "docs/v69/69-trip-7.png",
+      "bytes": 1685726,
+      "sha256": "f9c7de2da5cf3c2ab3d3d1c1df39b0dec4903e7f87d5aa580dd73989c455d789"
+    },
+    {
+      "path": "docs/v69/69-trip-cockpit.png",
+      "bytes": 923428,
+      "sha256": "41e48fb16244c6a11d35787e93dd85717a7f5863291a7cf136c9910e9bdca74e"
+    },
+    {
+      "path": "docs/v69/69-trip-finish.png",
+      "bytes": 1490210,
+      "sha256": "422726ab437447dc6141a13403a4c8a6457c97a56fc17790d8cacb2761e92e37"
+    },
+    {
+      "path": "docs/v69/delivery-state.json",
+      "bytes": 768,
+      "sha256": "bc124895b1e33a7dd5621c5705e02cf5a53984cbb1fa3b6fdb513b49e8beea25"
+    },
+    {
+      "path": "docs/v69/full-drive-results.json",
+      "bytes": 2382,
+      "sha256": "1cd552297cdbc227c349904fa65b816fbb88ec9e92b9218e794f2d797bb26796"
+    },
+    {
+      "path": "docs/v69/index.html",
+      "bytes": 14838,
+      "sha256": "1dff8a6794c3d35d447727947db98cb1aa2f7b558c2818d04e1d2d24f74a39be"
+    },
+    {
+      "path": "docs/v69/launch-ui69.json",
+      "bytes": 768,
+      "sha256": "f3c2de24f33b647178a49b33fa8443ad1d1132d38bbe9ab44e9e3f4a5b7eba6e"
+    },
+    {
+      "path": "docs/v69/race-branches-results.json",
+      "bytes": 1157,
+      "sha256": "d915e67b6bad2d85acdb0e13e4f4d47a5693a9768ee5dde0218632edb2b3eb46"
+    },
+    {
+      "path": "docs/v69/race-fairness-results.json",
+      "bytes": 633,
+      "sha256": "5cd59966ef82c9ce02c53ca7b96782977c2a028587bba39cba60773d3ec4b1e7"
+    },
+    {
+      "path": "docs/v69/race-runoff-results.json",
+      "bytes": 400,
+      "sha256": "f618a3f99a69c6ce9450f5066a5953ad29fca86dcd16f64692f32b6af62e2620"
+    },
+    {
+      "path": "docs/v69/render69-invariants.json",
+      "bytes": 1001,
+      "sha256": "d3c90fb42df8ed637285e169be3ca48311de27c18775579ec3eea8d3dcbe8e0b"
+    },
+    {
+      "path": "docs/v69/report68.json",
+      "bytes": 119147,
+      "sha256": "48053da48359c27aa3c73958748f94ff13b8f91528f6cdd63fdb002a57f5e35d"
+    },
+    {
+      "path": "docs/v69/report68match.json",
+      "bytes": 29877,
+      "sha256": "2baf6e4e4db45ec25416ea9ccf6aecc0e7b13c095d42277af9c6c5935beb74d7"
+    },
+    {
+      "path": "docs/v69/report69.json",
+      "bytes": 123283,
+      "sha256": "4c335a622fcf2e9984c4eee96941dfdb9ec10d693bda420dd7622f86d5d33ea4"
+    },
+    {
+      "path": "docs/v69/report69cockpit-first.json",
+      "bytes": 2755,
+      "sha256": "ff33913e4dae50555961a3dcc1f5fb0e279c90217c3a7cb5177cf687775734f6"
+    },
+    {
+      "path": "docs/v69/report69cockpit-profile-before-views.json",
+      "bytes": 3274,
+      "sha256": "4c1c77daf263a8da50539f8548cf44d0740137cea1b3aa9de40a8cc49acad100"
+    },
+    {
+      "path": "docs/v69/report69cockpit.json",
+      "bytes": 2979,
+      "sha256": "a8673ba1e9a79b9736bc995399489176de656cf01e11912db5eda7c260b1a617"
+    },
+    {
+      "path": "docs/v69/report69review.json",
+      "bytes": 14474,
+      "sha256": "9d2537c0b05d65cb300463a884a761c415341b146f0b3e036cd489f95b9970c9"
+    },
+    {
+      "path": "docs/v69/report69tune.json",
+      "bytes": 30623,
+      "sha256": "46146635c8e882ef8833317df1297c64237677fb62e3617c8840ad3f035d6b72"
+    },
+    {
+      "path": "docs/v69/ui69-results.json",
+      "bytes": 1273,
+      "sha256": "46bbf930f2bcd0d9dbfb306ffa03df6d56fdf24a1b3b5b92582c9cf95655fec0"
+    },
+    {
+      "path": "docs/v69/早期设计审计-历史记录.md",
+      "bytes": 17376,
+      "sha256": "a7aa6f478525bee06f229df6eb73fced1414f6bb8983cf2a88b05cad1caa15d1"
+    },
+    {
+      "path": "docs/verification69/race-rules.test.mjs",
+      "bytes": 6190,
+      "sha256": "a2d6021f3dc6a3df614ad2d16a57a376316e0264e51ff93269d27dfc32ea63cd"
+    },
+    {
+      "path": "docs/人机竞速修复检查.md",
+      "bytes": 2184,
+      "sha256": "039177a32fe3c9dce815b62685cb216436dc0520d5bc3a8060ce6a895324c18b"
+    },
+    {
+      "path": "docs/人机难度检查.md",
+      "bytes": 1410,
+      "sha256": "fdbb527f41e98f3a07eb09b73a14de7576c5343ecdecd50be141cc56ba1874f9"
+    },
+    {
+      "path": "docs/同机位对照/alpine-after-performance.json",
+      "bytes": 4667,
+      "sha256": "29ddae94b304cf3f57458eecb265d0860099cb6401164a85bf66ed26e10c945b"
+    },
+    {
+      "path": "docs/同机位对照/alpine-before-performance.json",
+      "bytes": 4705,
+      "sha256": "a92b09119ecc132be9831c1d730790a6ace225bbcff9ea7ff24447be85752c1b"
+    },
+    {
+      "path": "docs/同机位对照/canyon-after-performance.json",
+      "bytes": 4712,
+      "sha256": "6be1b070623a837a613ce47321d053e70004ed3cd34ce73ea18c67dc17084979"
+    },
+    {
+      "path": "docs/同机位对照/canyon-before-performance.json",
+      "bytes": 4726,
+      "sha256": "a837a578be3a9ea2656d96e0e61a4d906806efe8c06e9c279178b5a41fb0dad8"
+    },
+    {
+      "path": "docs/同机位对照/coast-after-performance.json",
+      "bytes": 4703,
+      "sha256": "1c069e3088c7ded180ee4fd540b7b571d3f2d5209702c1eda2907bc7fc5929f4"
+    },
+    {
+      "path": "docs/同机位对照/coast-before-performance.json",
+      "bytes": 4688,
+      "sha256": "e59d249ff2c129c7d0b10ae957a82e802e93315628e4f2d5e3f51194e30affe6"
+    },
+    {
+      "path": "docs/同机位对照/images/alpine-landmark-after.jpg",
+      "bytes": 603513,
+      "sha256": "6e040a3fa720dd79c4f9aded6cb9ef8352df3f97efd090cc886dba2ee3c1c830"
+    },
+    {
+      "path": "docs/同机位对照/images/alpine-landmark-before.jpg",
+      "bytes": 586101,
+      "sha256": "ad186c25ba5cb03c5c7b9dd5f994cabf743cd257ebc5401d5b35ae48664dff0d"
+    },
+    {
+      "path": "docs/同机位对照/images/alpine-offroad-after.jpg",
+      "bytes": 659090,
+      "sha256": "d025daa06605640e89482a57e20687fc1e0443290fae62b8ee3e24c93d020215"
+    },
+    {
+      "path": "docs/同机位对照/images/alpine-offroad-before.jpg",
+      "bytes": 653580,
+      "sha256": "531294b534a84a31c2ed3c3659da7a0159a7f5fe4c2917ecf367167c655d83b6"
+    },
+    {
+      "path": "docs/同机位对照/images/alpine-road-after.jpg",
+      "bytes": 684347,
+      "sha256": "eb8dfd17f0bf724a82d2c86b4c22ca879aaff6886188e1dcb6c88ece5bba9e57"
+    },
+    {
+      "path": "docs/同机位对照/images/alpine-road-before.jpg",
+      "bytes": 650005,
+      "sha256": "a874030104deb1e0b9c211c35997b5a7e3b732b63ebd901999401909b19c18db"
+    },
+    {
+      "path": "docs/同机位对照/images/alpine-start-after.jpg",
+      "bytes": 676249,
+      "sha256": "3bce8c4735064f95b51616bf2edbccd5a65a53c37c5004c531009c291e60f30d"
+    },
+    {
+      "path": "docs/同机位对照/images/alpine-start-before.jpg",
+      "bytes": 621603,
+      "sha256": "e1f87ad84abfdfa79138d9585d5720fc6582e49d9f27a255ab81bb50109ae570"
+    },
+    {
+      "path": "docs/同机位对照/images/canyon-landmark-after.jpg",
+      "bytes": 445246,
+      "sha256": "25074fef535e6a32bd967e2f9000cf50cf9e0287733bb054449ed376c05e8445"
+    },
+    {
+      "path": "docs/同机位对照/images/canyon-landmark-before.jpg",
+      "bytes": 439813,
+      "sha256": "4429c2640c7a2605464922d112505c88dec9fd019c4e3c4b112549450d457024"
+    },
+    {
+      "path": "docs/同机位对照/images/canyon-offroad-after.jpg",
+      "bytes": 488124,
+      "sha256": "55aa4aa842110439132639e1eb6c188d46642e7805fef179e1d7104c3c5a10c0"
+    },
+    {
+      "path": "docs/同机位对照/images/canyon-offroad-before.jpg",
+      "bytes": 481621,
+      "sha256": "7a31ab0ce42730ee1f74fe81c4b72558bf0f07779d7053af32d7a9808ec978e2"
+    },
+    {
+      "path": "docs/同机位对照/images/canyon-road-after.jpg",
+      "bytes": 489107,
+      "sha256": "d81abd6aeaf048f557c5ca661c8232b024e641fcafce09a1634ee0bd224165c9"
+    },
+    {
+      "path": "docs/同机位对照/images/canyon-road-before.jpg",
+      "bytes": 476526,
+      "sha256": "3f7249879d08f91256b0f271eea2f581c30bfe16f99d3e0fc8f62866cd8b8e46"
+    },
+    {
+      "path": "docs/同机位对照/images/canyon-start-after.jpg",
+      "bytes": 526079,
+      "sha256": "9cc2b5e30f034e14afbb28ce4e895dae72b3b59f8762e4974259486bfcef8a39"
+    },
+    {
+      "path": "docs/同机位对照/images/canyon-start-before.jpg",
+      "bytes": 517290,
+      "sha256": "e56a620ece31094ee4fd3df10c9c1169c47aa912639644d311aa13f7e468d895"
+    },
+    {
+      "path": "docs/同机位对照/images/coast-landmark-after.jpg",
+      "bytes": 523321,
+      "sha256": "a375b6b23767288fc04d0aff3f54740e140046cde32c62ecbd876c89b70990a1"
+    },
+    {
+      "path": "docs/同机位对照/images/coast-landmark-before.jpg",
+      "bytes": 523339,
+      "sha256": "484c26610608e878568c81d645b05436c68a714400051d574512742e8ca76fa3"
+    },
+    {
+      "path": "docs/同机位对照/images/coast-offroad-after.jpg",
+      "bytes": 705315,
+      "sha256": "7447517dd35d937b96dd6da3a351054f92b2a23ee22d683d65b55dbfa21f4b65"
+    },
+    {
+      "path": "docs/同机位对照/images/coast-offroad-before.jpg",
+      "bytes": 704603,
+      "sha256": "f784962ca0f88cad6f39646f8130812ed197b88259e38adec0479bd089364ae3"
+    },
+    {
+      "path": "docs/同机位对照/images/coast-road-after.jpg",
+      "bytes": 550304,
+      "sha256": "3b92d0619e94c1a8f1704ef51c9a69906335329c1e4ea6189f56cd52c91a8d34"
+    },
+    {
+      "path": "docs/同机位对照/images/coast-road-before.jpg",
+      "bytes": 549880,
+      "sha256": "ec6de9009d73f51ee288807d15cb4db7c3dea3b2a3891f15a98254ba111943f8"
+    },
+    {
+      "path": "docs/同机位对照/images/coast-start-after.jpg",
+      "bytes": 579187,
+      "sha256": "d7eb6f6784af18559bf72dd8ff07ad59990d7e4a68bb9f6ecac31f37e8472cc4"
+    },
+    {
+      "path": "docs/同机位对照/images/coast-start-before.jpg",
+      "bytes": 578787,
+      "sha256": "0f8f4f2c1bdb8f005904151aa9196c99155a9eb831a23123b85adbc47a572ec1"
+    },
+    {
+      "path": "docs/同机位对照/images/port-landmark-after.jpg",
+      "bytes": 465183,
+      "sha256": "29fe24656943db498b2ef88e1816fdd4583279dc2de2b6e51ee612c2c9c33cfe"
+    },
+    {
+      "path": "docs/同机位对照/images/port-landmark-before.jpg",
+      "bytes": 465737,
+      "sha256": "d6884d73f3d34511f5d537bc7153a5b66499971dca86761d40f29b3bbc5932e3"
+    },
+    {
+      "path": "docs/同机位对照/images/port-offroad-after.jpg",
+      "bytes": 477094,
+      "sha256": "38a5848a2ac255c5b58de1a9d94da5dd877bf3719126dcbc0fc48c138d54336c"
+    },
+    {
+      "path": "docs/同机位对照/images/port-offroad-before.jpg",
+      "bytes": 476180,
+      "sha256": "9ea001901b0dbaa00bebbf1471d1a123f533a089c1388f758cafbe42e2bc0758"
+    },
+    {
+      "path": "docs/同机位对照/images/port-road-after.jpg",
+      "bytes": 434010,
+      "sha256": "e9d3f115892105c33f8a5e251647df1ac83f4591da65da128b4b63ed27d23304"
+    },
+    {
+      "path": "docs/同机位对照/images/port-road-before.jpg",
+      "bytes": 433938,
+      "sha256": "de490903de091e2713da9b6b3796ad2ef31b61d8f518b7d9553b491641390f1e"
+    },
+    {
+      "path": "docs/同机位对照/images/port-start-after.jpg",
+      "bytes": 459889,
+      "sha256": "cb17c8ac359df87b5d1b72b7494e86c554b358198dcdb6a6fee70430e14a4ad6"
+    },
+    {
+      "path": "docs/同机位对照/images/port-start-before.jpg",
+      "bytes": 458708,
+      "sha256": "5db8f421c08034d0c14a4dc4ef7f8e02404fb8969b44ed4787f97205bbcbb14b"
+    },
+    {
+      "path": "docs/同机位对照/index.html",
+      "bytes": 8924,
+      "sha256": "d044e669af610de9747f0da61699432f54af67f92f47a3fed03ee8f416796876"
+    },
+    {
+      "path": "docs/同机位对照/port-after-performance.json",
+      "bytes": 4696,
+      "sha256": "69098651094274ab02d7ee0bd0b92a32ce9d90e8b528e4b4f8adc1dfc3d668d4"
+    },
+    {
+      "path": "docs/同机位对照/port-before-performance.json",
+      "bytes": 4697,
+      "sha256": "027f31e10249ae2a3405fbc4ddec9c6ceefc7c8d57f5f5eb6b4e7935dd61892a"
+    },
+    {
+      "path": "docs/同机位对照/四图性能抽测.md",
+      "bytes": 1518,
+      "sha256": "a004645f0c6c8166b99fdd2bb5a82bee830f2358a41c605d4db9c84528a8288f"
+    },
+    {
+      "path": "docs/同机位对照/山地起点对照.jpg",
+      "bytes": 330273,
+      "sha256": "6fbc53786b7db4f8e28314a685f80ccd94e199912bc695bc35b9d8c9feb0d70e"
+    },
+    {
+      "path": "docs/四图切换两轮结果.json",
+      "bytes": 1412,
+      "sha256": "a0f6a9205fbcff66ff55115287d9b187f3e39d5abe9ea371ded0a8d9849ff572"
+    },
+    {
+      "path": "docs/场景预览版检查与限制.md",
+      "bytes": 4415,
+      "sha256": "bee0d40d09167c38903c733a623db024fe8415b40a06d390ae52cae85022db97"
+    },
+    {
+      "path": "docs/城市与驾驶验收说明.md",
+      "bytes": 5017,
+      "sha256": "5a6b8112c6bf4d2b4c377fe6f2d221cfe6b48037e688636493fb55c0b499adec"
+    },
+    {
+      "path": "docs/城市同机位对照/after/city-landmark.png",
+      "bytes": 2210718,
+      "sha256": "be47e2aeb2bafc634f0ce9de4965ff76839c2613703ca3bab40483566755f267"
+    },
+    {
+      "path": "docs/城市同机位对照/after/city-offroad.png",
+      "bytes": 2748362,
+      "sha256": "bb72279e8937d4d6bb1cbe0d1fd074df280f21b86cb44a1f0baff22d7e6fd5d9"
+    },
+    {
+      "path": "docs/城市同机位对照/after/city-oldtown.png",
+      "bytes": 2533163,
+      "sha256": "c24cca8047641fea08aacec9a9da047de169a4943f1e60045cf03f63dbbe0c9d"
+    },
+    {
+      "path": "docs/城市同机位对照/after/city-road.png",
+      "bytes": 2387152,
+      "sha256": "475cafbd5bf786726f9eef8c84371b0b05f0b5c085923cb3e2f9d70e9b12b95e"
+    },
+    {
+      "path": "docs/城市同机位对照/after/city-start.png",
+      "bytes": 2352440,
+      "sha256": "882e0f3fc1d3e306b18c2ccdf22c7b469f06a80ffc08e64e5d7b46c3fbad0acb"
+    },
+    {
+      "path": "docs/城市同机位对照/after/report.json",
+      "bytes": 1207,
+      "sha256": "3abd41040e877fa7f7f3503e185c327525cfd98d6da3f3cc27be825defa1e384"
+    },
+    {
+      "path": "docs/城市同机位对照/before/city-landmark.png",
+      "bytes": 2132210,
+      "sha256": "5ecb3d3aec41d2af3e01253182148045c512738a3bc54903a1edb94f46fe4e65"
+    },
+    {
+      "path": "docs/城市同机位对照/before/city-offroad.png",
+      "bytes": 1870468,
+      "sha256": "cdc17d8959940ebd137bac6e2d379848e815cfcf93c4e62b86ae65d825447596"
+    },
+    {
+      "path": "docs/城市同机位对照/before/city-oldtown.png",
+      "bytes": 2149964,
+      "sha256": "f7fe467c1a4ae7643b8fc7d030ead410ec1f51e851e8511e6c0c769a597f0ed8"
+    },
+    {
+      "path": "docs/城市同机位对照/before/city-road.png",
+      "bytes": 2029007,
+      "sha256": "bf591a01af3f6c28d23c415cdf06a09886bf78add493252529263b6621adaff0"
+    },
+    {
+      "path": "docs/城市同机位对照/before/city-start.png",
+      "bytes": 1973482,
+      "sha256": "d391452bcbc80830b0d9e55f0fbcd98f3532aba78e8b682b9bc501e2e98f544e"
+    },
+    {
+      "path": "docs/城市同机位对照/before/report.json",
+      "bytes": 1207,
+      "sha256": "3abd41040e877fa7f7f3503e185c327525cfd98d6da3f3cc27be825defa1e384"
+    },
+    {
+      "path": "docs/城市同机位对照/city-landmark-compare.jpg",
+      "bytes": 113823,
+      "sha256": "3394f48eb68eac1b15e4b204824ff71ce6ac7350af1864a64bd8c5b14858247e"
+    },
+    {
+      "path": "docs/城市同机位对照/city-offroad-compare.jpg",
+      "bytes": 126165,
+      "sha256": "250f0579ce7a10099cd99c256caeb527cfb3b5ee49ba43c7117f2adf928fd302"
+    },
+    {
+      "path": "docs/城市同机位对照/city-oldtown-compare.jpg",
+      "bytes": 119655,
+      "sha256": "082509c0572ea2f4b22abd8a53a7febcec1a8743a71736d3218b4f2fba1c3e0c"
+    },
+    {
+      "path": "docs/城市同机位对照/city-road-compare.jpg",
+      "bytes": 122516,
+      "sha256": "a3e84cad4fb787daa23167cc13fa42bf2d8b7601048cc259ea40739c1e299753"
+    },
+    {
+      "path": "docs/城市同机位对照/city-start-compare.jpg",
+      "bytes": 110980,
+      "sha256": "7da67eee7bb9ee9fa87bd426ede63addc6871240fb6bf2f6a4e70b06969b2dd4"
+    },
+    {
+      "path": "docs/城市同机位对照/index.html",
+      "bytes": 1688,
+      "sha256": "01ce89bcb9532ce268bc18fdc637ac4366ea3df597b317355e3011469e0be79f"
+    },
+    {
+      "path": "docs/城市普通入口短距离驾驶.mp4",
+      "bytes": 1838357,
+      "sha256": "4b8cc2606e00054b1f46aab01095b6c1b7cad5d57acff24429900be8a0b61ed7"
+    },
+    {
+      "path": "docs/驾驶片段/alpine.mp4",
+      "bytes": 4476115,
+      "sha256": "b68248d44391da0b2d9a8ca6cfcc5d8c6de9b77ca66b64ccc74d9c6930af5b53"
+    },
+    {
+      "path": "docs/驾驶片段/canyon.mp4",
+      "bytes": 3755144,
+      "sha256": "7ad0397fcc6f8b0d66c33d2e715e955f7671b9ca5a35523f107a2273758c4853"
+    },
+    {
+      "path": "docs/驾驶片段/coast.mp4",
+      "bytes": 4295132,
+      "sha256": "c62d88e2aebb83707e42f49e178bcc49781ed00a7946a77fdf76302112969020"
+    },
+    {
+      "path": "docs/驾驶片段/index.html",
+      "bytes": 1439,
+      "sha256": "b74ebcdd5328cface181b0b1eef5de270cdc7d71d3fd0fb909be9d9f6f70b1c0"
+    },
+    {
+      "path": "docs/驾驶片段/port.mp4",
+      "bytes": 3602061,
+      "sha256": "02d720511db5453d5c732f28072d3753974f7cc21b9e983509fcbd37784c7d6f"
+    },
+    {
+      "path": "docs/驾驶舱与驾驶验收说明.md",
+      "bytes": 4878,
+      "sha256": "bfeb0215aaa4ac85ca81b354aee81e595849860f2068da35ad21066c731ab0f3"
+    },
+    {
+      "path": "docs/驾驶舱测试画面.png",
+      "bytes": 264523,
+      "sha256": "f929b02a49d39c33f34301ea9ebd30121d04b33aaa71c4ad77c7ab185c925109"
+    },
+    {
+      "path": "docs/驾驶舱雨天测试短片.mp4",
+      "bytes": 2081941,
+      "sha256": "b02b04208a2cb31254beb20562dcfe6e1933d9d2695e1260caa64d17885d87e8"
+    },
+    {
+      "path": "launcher-source/app.manifest",
+      "bytes": 587,
+      "sha256": "329b0bf6ee4be3d2ad6aa8ab8d2ab6d276a7fe8fc618c129bb939cff0020705f"
+    },
+    {
+      "path": "launcher-source/build.rsp",
+      "bytes": 297,
+      "sha256": "39b4df01e4f966c1114cd2668b6e43a24c35af7690fb8e4a258dd67990ad53d2"
+    },
+    {
+      "path": "launcher-source/coastline.ico",
+      "bytes": 19715,
+      "sha256": "8c25f9e4f80acd5a0f1b375a9274d608adc111a69658168700399659e4700b3f"
+    },
+    {
+      "path": "launcher-source/Program.cs",
+      "bytes": 9648,
+      "sha256": "a812a21dfeaedb7fba4b9bee687ebe5900701dff283076eee8de100ae991e096"
+    },
+    {
+      "path": "launcher-source/README.md",
+      "bytes": 933,
+      "sha256": "e4c357875d076512cd5046ff2b187b28c0912e8e2bbb16ed60d6b1f132c76b16"
+    },
+    {
+      "path": "package.json",
+      "bytes": 169,
+      "sha256": "4c3a4aeea35e736ee7a6439b156c8b7ca6ef3da91e3f4f34a9a344062330fba2"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1299,
+      "sha256": "b51bb1a8e0935fa988adab011807839ab961f39a6a164cf66111e0af59c3f279"
+    },
+    {
+      "path": "runtime/NODE-LICENSE.txt",
+      "bytes": 156926,
+      "sha256": "4573185d56580da2b890ba34a85a409257640f1c5632eade4300137266194d18"
+    },
+    {
+      "path": "runtime/node.exe",
+      "bytes": 92279112,
+      "sha256": "b3094d0b49f9ad602262a9921551737bb97637c05dd357a06ae98188d7290aa3"
+    },
+    {
+      "path": "runtime/SOURCE.json",
+      "bytes": 267,
+      "sha256": "f4c4b410d635cbf5d62989c90a5cce669fda81a84d8e1182495468e99c2191ab"
+    },
+    {
+      "path": "server.mjs",
+      "bytes": 3776,
+      "sha256": "a76381d2aeb2c41f16029d03264fbd18c4f771c1e9606bc21e9035e384696b3f"
+    },
+    {
+      "path": "开始游戏.cmd",
+      "bytes": 482,
+      "sha256": "d8a04d514db9a20bc6dd83f7747ab44409cca6f53a052cdab5d9c5be5290e240"
+    },
+    {
+      "path": "开始游戏.exe",
+      "bytes": 37888,
+      "sha256": "e9da965f744664839099ae087f638818a8a2cadcc4a6d4a0c239c8c253883a64"
+    },
+    {
+      "path": "性能测量说明.md",
+      "bytes": 12622,
+      "sha256": "5898d04dc7cfcf86786d137e4fda1f3bbd68fce7f20fde2091fff1cfe5876ea4"
+    },
+    {
+      "path": "朋友怎么玩.txt",
+      "bytes": 1120,
+      "sha256": "21e54812f111bcbce1ecc8ad99745af4ee547eb3faabf84299b0a1221ebbebdb"
+    }
+  ]
+}
